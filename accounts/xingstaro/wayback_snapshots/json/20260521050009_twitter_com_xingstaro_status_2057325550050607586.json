@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057132621080277315",
+    "created_at": "2026-05-21T05:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057325550050607586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957509667787325440",
+          "start": 0,
+          "username": "_yuki_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057325550050607586",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057132621080277315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yuki_owo 好萌呀我的天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2057132604760236032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxnNHKboAAbaTj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1815,
+        "media_key": "3_2057132604764336129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxnNHLaMAEealu.jpg",
+        "width": 1021
+      },
+      {
+        "height": 1729,
+        "media_key": "3_2057132604768555009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxnNHMakAEAD7U.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057132621080277315",
+        "created_at": "2026-05-21T05:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057325550050607586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057325550050607586",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057132621080277315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 好萌呀我的天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057132604760236032",
+            "3_2057132604764336129",
+            "3_2057132604768555009"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2057132621080277315",
+        "created_at": "2026-05-20T16:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057132621080277315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PWe3Dd2j1",
+              "end": 34,
+              "expanded_url": "https://x.com/_yuki_owo/status/2057132621080277315/photo/1",
+              "media_key": "3_2057132604760236032",
+              "start": 11,
+              "url": "https://t.co/3PWe3Dd2j1"
+            },
+            {
+              "display_url": "pic.x.com/3PWe3Dd2j1",
+              "end": 34,
+              "expanded_url": "https://x.com/_yuki_owo/status/2057132621080277315/photo/1",
+              "media_key": "3_2057132604764336129",
+              "start": 11,
+              "url": "https://t.co/3PWe3Dd2j1"
+            },
+            {
+              "display_url": "pic.x.com/3PWe3Dd2j1",
+              "end": 34,
+              "expanded_url": "https://x.com/_yuki_owo/status/2057132621080277315/photo/1",
+              "media_key": "3_2057132604768555009",
+              "start": 11,
+              "url": "https://t.co/3PWe3Dd2j1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057132621080277315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1073,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的18岁生日 https://t.co/3PWe3Dd2j1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 361,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 597
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08/女/bi/od/sh/穿孔/同类互fo/漏fo可以私我/雪兔会标预警/lgbt全友好/查成分互fo/我是穷逼弱智糖人精神病/骂我默认辱追/喜欢我的我会宠你们/爱你们mua",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXQu6"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Pripyat",
+        "name": "ゆき",
+        "pinned_tweet_id": "2041482120028385312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052872311519498240/_QFl3sOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 666,
+          "like_count": 3458,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1594
+        },
+        "url": "https://t.co/JcxwpFXQu6",
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

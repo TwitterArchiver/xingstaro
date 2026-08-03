@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057064731719217346",
+    "created_at": "2026-05-20T12:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057071018875945156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891748269853700096",
+          "start": 0,
+          "username": "Entropy149868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057071018875945156",
+    "in_reply_to_user_id": "1891748269853700096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057064731719217346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy149868 经济独立工作稳定智力正常，家里长辈日渐衰老力不从心，这个时候对我的要求就是只要我能看起来像个健全人，干什么事都行👁️👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057064731719217346",
+        "created_at": "2026-05-20T12:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057071018875945156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057071018875945156",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057064731719217346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 经济独立工作稳定智力正常，家里长辈日渐衰老力不从心，这个时候对我的要求就是只要我能看起来像个健全人，干什么事都行👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2057064731719217346",
+        "created_at": "2026-05-20T11:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057064731719217346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057064731719217346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇那些可以自由od和吸毒的是什么家庭，家里人不会把你们关精神病院吗，我在精神病院里快疯掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 338,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 537
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "精神病院",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 442,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 540
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

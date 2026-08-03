@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2072282988864483591",
+    "created_at": "2026-07-01T11:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072283590398705766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072283590398705766",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072282988864483591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu 未来宝宝好萌呀ᜊ•͈⌔•͈ᜊ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072282922657464321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI6VrcbQAE9rNs.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2072282922686767104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI6VrjaYAAyt0g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2072282922657464320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI6VrcbQAAsV7x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2072282988864483591",
+        "created_at": "2026-07-01T11:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072283590398705766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072283590398705766",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072282988864483591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 未来宝宝好萌呀ᜊ•͈⌔•͈ᜊ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072282922657464321",
+            "3_2072282922686767104",
+            "3_2072282922657464320"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2072282988864483591",
+        "created_at": "2026-07-01T11:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072282988864483591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxrUcDLgW2",
+              "end": 34,
+              "expanded_url": "https://x.com/uixxixu/status/2072282988864483591/photo/1",
+              "media_key": "3_2072282922657464321",
+              "start": 11,
+              "url": "https://t.co/NxrUcDLgW2"
+            },
+            {
+              "display_url": "pic.x.com/NxrUcDLgW2",
+              "end": 34,
+              "expanded_url": "https://x.com/uixxixu/status/2072282988864483591/photo/1",
+              "media_key": "3_2072282922686767104",
+              "start": 11,
+              "url": "https://t.co/NxrUcDLgW2"
+            },
+            {
+              "display_url": "pic.x.com/NxrUcDLgW2",
+              "end": 34,
+              "expanded_url": "https://x.com/uixxixu/status/2072282988864483591/photo/1",
+              "media_key": "3_2072282922657464320",
+              "start": 11,
+              "url": "https://t.co/NxrUcDLgW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072282988864483591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你怎么了 让老公看看 https://t.co/NxrUcDLgW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 451,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 846
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 523,
+          "like_count": 6368,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 4041
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

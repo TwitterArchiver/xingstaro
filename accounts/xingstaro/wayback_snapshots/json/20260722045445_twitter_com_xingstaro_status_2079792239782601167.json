@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2079497238615871726",
+    "created_at": "2026-07-22T04:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079792239782601167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620279272467476481",
+          "start": 0,
+          "username": "jackeynight1"
+        },
+        {
+          "end": 25,
+          "id": "1617812832464297984",
+          "start": 14,
+          "username": "LTLkindred"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079792239782601167",
+    "in_reply_to_user_id": "1620279272467476481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079790271550939568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackeynight1 @LTLkindred 😭遭奸人举报哭惹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2079497238615871726",
+        "created_at": "2026-07-22T04:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079792239782601167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620279272467476481",
+              "start": 0,
+              "username": "jackeynight1"
+            },
+            {
+              "end": 25,
+              "id": "1617812832464297984",
+              "start": 14,
+              "username": "LTLkindred"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079792239782601167",
+        "in_reply_to_user_id": "1620279272467476481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079790271550939568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackeynight1 @LTLkindred 😭遭奸人举报哭惹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620279272467476481",
+        "conversation_id": "2079497238615871726",
+        "created_at": "2026-07-22T04:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079790271550939568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            },
+            {
+              "end": 22,
+              "id": "1617812832464297984",
+              "start": 11,
+              "username": "LTLkindred"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079790271550939568",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079764754902765938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro @LTLkindred 十七复活了，糯米怎么又消失了😢😢😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 510,
+          "like_count": 1565,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1010
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T04:35:09.000Z",
+        "description": "这个人很懒所以几乎没有留下什么介绍...⭕dm＃惰天使＃od＃自伤 cn夕颜",
+        "id": "1620279272467476481",
+        "location": "天国",
+        "name": "夕颜",
+        "pinned_tweet_id": "1861772867106636056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998729382849032194/g1FkyEWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 495,
+          "like_count": 16429,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 8821
+        },
+        "url": "",
+        "username": "jackeynight1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T09:14:14.000Z",
+        "description": "//深宅家中//时常陷入抑郁 //性别未知        \n喜爱玩游戏🎮（经常不知道玩什么 讨厌腾讯\n//喜欢❤️一切可爱的事物 (ૢ˃ꌂ˂⁎)   //oder💊        \n梦想有一天突然考入心仪的学校\n//ASD（聊天能力欠缺）INTP，INFP随机转化//缺爱💔（想要姐姐妹妹）//",
+        "id": "1617812832464297984",
+        "name": "LTLkindred",
+        "pinned_tweet_id": "2028890908905885823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024260517905436672/OWpIdUho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 2790,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "LTLkindred",
+        "verified": false
+      }
+    ]
+  }
+}

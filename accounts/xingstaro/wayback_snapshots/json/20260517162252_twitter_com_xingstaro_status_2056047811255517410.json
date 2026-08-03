@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055860080621552022",
+    "created_at": "2026-05-17T16:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056047811255517410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056010581342392320",
+          "start": 0,
+          "username": "Mercyvnv"
+        },
+        {
+          "end": 26,
+          "id": "1272405078683430913",
+          "start": 10,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056047811255517410",
+    "in_reply_to_user_id": "2056010581342392320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056045075109761188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvnv @PaitangOfficial 呜呜呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055860080621552022",
+        "created_at": "2026-05-17T16:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056047811255517410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056010581342392320",
+              "start": 0,
+              "username": "Mercyvnv"
+            },
+            {
+              "end": 26,
+              "id": "1272405078683430913",
+              "start": 10,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056047811255517410",
+        "in_reply_to_user_id": "2056010581342392320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056045075109761188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvnv @PaitangOfficial 呜呜呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056010581342392320",
+        "conversation_id": "2055860080621552022",
+        "created_at": "2026-05-17T16:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056045075109761188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            },
+            {
+              "end": 27,
+              "id": "1272405078683430913",
+              "start": 11,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056045075109761188",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056035243317133428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro @PaitangOfficial 抱抱你呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 262,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 354
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T13:55:45.000Z",
+        "description": "Mercy4.0。。互关寻回ing",
+        "id": "2056010581342392320",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056010892282851328/okw5X9dJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 43,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "Mercyvnv",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” 客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达🦞",
+        "pinned_tweet_id": "2036443725711417459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9954,
+          "following_count": 532,
+          "like_count": 8458,
+          "listed_count": 25,
+          "media_count": 1718,
+          "tweet_count": 14482
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

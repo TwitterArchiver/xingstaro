@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2067849598220247184",
+    "created_at": "2026-06-23T11:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069381047821980055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055550207069446144",
+          "start": 0,
+          "username": "AliceDeeriatl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069381047821980055",
+    "in_reply_to_user_id": "2055550207069446144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069325498233360582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceDeeriatl 抱抱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2067849598220247184",
+        "created_at": "2026-06-23T11:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069381047821980055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055550207069446144",
+              "start": 0,
+              "username": "AliceDeeriatl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069381047821980055",
+        "in_reply_to_user_id": "2055550207069446144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069325498233360582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceDeeriatl 抱抱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055550207069446144",
+        "conversation_id": "2067849598220247184",
+        "created_at": "2026-06-23T07:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069325498233360582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069325498233360582",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067849598220247184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 抱抱抱抱抱糯宝!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中借用星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/drea💊mugtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 433,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 762
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T07:26:19.000Z",
+        "description": "骐骥成为小萝莉",
+        "id": "2055550207069446144",
+        "location": "四川泸州",
+        "name": "Alice Deer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055550524553125888/QgqiLl6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 48,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "AliceDeeriatl",
+        "verified": false
+      }
+    ]
+  }
+}

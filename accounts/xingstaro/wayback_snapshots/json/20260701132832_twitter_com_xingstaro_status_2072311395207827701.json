@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2071605929775411307",
+    "created_at": "2026-07-01T13:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072311395207827701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991532007801909248",
+          "start": 0,
+          "username": "wxb202530605113"
+        },
+        {
+          "end": 26,
+          "id": "1809233055196073984",
+          "start": 17,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072311395207827701",
+    "in_reply_to_user_id": "1991532007801909248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072306273396416945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxb202530605113 @Jy666992 该吃点右美沙芬或者可待因了（确信）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2071605929775411307",
+        "created_at": "2026-07-01T13:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072311395207827701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991532007801909248",
+              "start": 0,
+              "username": "wxb202530605113"
+            },
+            {
+              "end": 26,
+              "id": "1809233055196073984",
+              "start": 17,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072311395207827701",
+        "in_reply_to_user_id": "1991532007801909248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072306273396416945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb202530605113 @Jy666992 该吃点右美沙芬或者可待因了（确信）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991532007801909248",
+        "conversation_id": "2071605929775411307",
+        "created_at": "2026-07-01T13:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072306273396416945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            },
+            {
+              "end": 20,
+              "id": "1809233055196073984",
+              "start": 11,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072306273396416945",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071820156356190437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro @Jy666992 不抽也这样咳，嘻嘻ᗜ𖥦ᗜ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 453,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 856
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T15:40:17.000Z",
+        "description": "只是一只猫罢了丨为什么同一片天空下总有人不在春日里......",
+        "id": "1991532007801909248",
+        "name": "evil_cattttyyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060657450282553344/0KesHK5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 23,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "wxb202530605113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2069854465931497694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 261,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 806
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

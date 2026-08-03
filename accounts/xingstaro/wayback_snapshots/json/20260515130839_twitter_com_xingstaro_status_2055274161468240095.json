@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055274161468240095",
+    "created_at": "2026-05-15T13:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055274161468240095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/jiuyouforwhite2/status/2055250672657064041",
+          "start": 20,
+          "url": "https://t.co/zs66wvrBTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055274161468240095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055250672657064041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "little17（为什么我越叫越怪了） https://t.co/zs66wvrBTt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_2055250608953966592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW3iicbQAAcZ3b.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055274161468240095",
+        "created_at": "2026-05-15T13:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055274161468240095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/jiuyouforwhite2/status/2055250672657064041",
+              "start": 20,
+              "url": "https://t.co/zs66wvrBTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055274161468240095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055250672657064041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "little17（为什么我越叫越怪了） https://t.co/zs66wvrBTt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055250608953966592"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2055250672657064041",
+        "created_at": "2026-05-15T11:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055250672657064041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOyhCt3pfR",
+              "end": 161,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2055250672657064041/photo/1",
+              "media_key": "3_2055250608953966592",
+              "start": 138,
+              "url": "https://t.co/vOyhCt3pfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055250672657064041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是 反胃的Sisyphus(十七)\n本账号 反胃的YozoOba 作为备用号\n一号目前因为eat xanax被误封 申诉近三天无回应\n\n暂时用本账号回复大家问题，\n后面一号如果复活的话用本账号发trip记录或者其他什么东西(待定)\n这里希望大家帮我转帖\n谢谢你们 爱你们. https://t.co/vOyhCt3pfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 209,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 246
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "反胃的YozoOba/一号:@jiuyouforwhite/偏爱:@xingstaro/师长:@futi999139732/好友:@Lomyral114514、@h1zh816060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "jiuyouforwhite"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xingstaro"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "futi999139732"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "h1zh816060"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "YozoOba反胃的",
+        "pinned_tweet_id": "2055250672657064041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054913557297610752/3NKcf-Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 8,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

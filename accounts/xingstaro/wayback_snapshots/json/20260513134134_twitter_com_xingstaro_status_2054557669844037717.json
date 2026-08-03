@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054446852045775195",
+    "created_at": "2026-05-13T13:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054557669844037717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037004701955448832",
+          "start": 0,
+          "username": "liyu454144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054557669844037717",
+    "in_reply_to_user_id": "2037004701955448832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054446852045775195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyu454144 好看（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9856,
+        "height": 1280,
+        "media_key": "7_2054446821226037248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054446821226037248/pu/img/L0jmoGtDabayYkAz.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054446821226037248/pu/vid/avc1/320x568/PVXBkoAV5zNWIIuB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054446821226037248/pu/vid/avc1/480x852/g7MqtyEB4fsM4UVF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054446821226037248/pu/vid/avc1/720x1280/Fr3x9ay84mod6W5T.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054446821226037248/pu/pl/JJzec28A4F2dtd9e.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054446852045775195",
+        "created_at": "2026-05-13T13:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054557669844037717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037004701955448832",
+              "start": 0,
+              "username": "liyu454144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054557669844037717",
+        "in_reply_to_user_id": "2037004701955448832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054446852045775195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyu454144 好看（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054446821226037248"
+          ]
+        },
+        "author_id": "2037004701955448832",
+        "conversation_id": "2054446852045775195",
+        "created_at": "2026-05-13T06:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054446852045775195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sjKIpVSJQ",
+              "end": 32,
+              "expanded_url": "https://x.com/liyu454144/status/2054446852045775195/video/1",
+              "media_key": "7_2054446821226037248",
+              "start": 9,
+              "url": "https://t.co/0sjKIpVSJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054446852045775195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我流鼻血了（×） https://t.co/0sjKIpVSJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 203,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 189
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T03:12:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me//liyu454114",
+                "end": 23,
+                "expanded_url": "http://t.me//liyu454114",
+                "start": 0,
+                "url": "https://t.co/63eU2cCHg2"
+              }
+            ]
+          }
+        },
+        "id": "2037004701955448832",
+        "name": "璃雨",
+        "pinned_tweet_id": "2037050916109693290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037030483658477568/dexsNk3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 145,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/63eU2cCHg2",
+        "username": "liyu454144",
+        "verified": false
+      }
+    ]
+  }
+}

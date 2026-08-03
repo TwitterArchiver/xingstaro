@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055941877803991431",
+    "created_at": "2026-05-17T14:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056014006725529697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2023887772801736704",
+          "start": 0,
+          "username": "lyyouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056014006725529697",
+    "in_reply_to_user_id": "2023887772801736704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055941877803991431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyyouo 好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055941863543336961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgsO2da8AEotDo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055941877803991431",
+        "created_at": "2026-05-17T14:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056014006725529697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2023887772801736704",
+              "start": 0,
+              "username": "lyyouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056014006725529697",
+        "in_reply_to_user_id": "2023887772801736704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055941877803991431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyyouo 好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055941863543336961"
+          ]
+        },
+        "author_id": "2023887772801736704",
+        "conversation_id": "2055941877803991431",
+        "created_at": "2026-05-17T09:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055941877803991431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3Y2laAwJy",
+              "end": 23,
+              "expanded_url": "https://x.com/lyyouo/status/2055941877803991431/photo/1",
+              "media_key": "3_2055941863543336961",
+              "start": 0,
+              "url": "https://t.co/d3Y2laAwJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055941877803991431",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d3Y2laAwJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 248,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 339
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T22:30:32.000Z",
+        "description": "前世@o3olyy｜18 ↑｜od 自伤🩹餐券女｜双相｜adhd｜认知障碍｜自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡\n求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "o3olyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/6FKFe0QKii"
+              }
+            ]
+          }
+        },
+        "id": "2023887772801736704",
+        "location": "看看你身后｜🚪52坐标10",
+        "name": "真理（寻回互fo版）",
+        "pinned_tweet_id": "2053586183427649665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048059698948263936/IChWanrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 156,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/6FKFe0QKii",
+        "username": "lyyouo",
+        "verified": false
+      }
+    ]
+  }
+}

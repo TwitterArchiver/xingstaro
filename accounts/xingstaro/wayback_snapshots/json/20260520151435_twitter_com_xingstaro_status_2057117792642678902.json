@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057117270393172451",
+    "created_at": "2026-05-20T15:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057117792642678902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454011300854460420",
+          "start": 0,
+          "username": "rara_0615xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057117792642678902",
+    "in_reply_to_user_id": "1454011300854460420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057117270393172451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rara_0615xx 我草咋那么好笑。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057117270393172451",
+        "created_at": "2026-05-20T15:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057117792642678902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454011300854460420",
+              "start": 0,
+              "username": "rara_0615xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057117792642678902",
+        "in_reply_to_user_id": "1454011300854460420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057117270393172451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rara_0615xx 我草咋那么好笑。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454011300854460420",
+        "conversation_id": "2057117270393172451",
+        "created_at": "2026-05-20T15:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057117270393172451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057117270393172451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我主治把od圈这三个字写上我的病历了。。沙溢思，我现在才发现\n我说我有点药物滥用。\n她：od圈是吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 339,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 558
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-29T09:04:56.000Z",
+        "description": "🚪私/鱿鱼系女子亚米亚米/",
+        "id": "1454011300854460420",
+        "location": "天國",
+        "name": "♡純白色罪業",
+        "pinned_tweet_id": "2035700296392069307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041065743043932161/pNiYUnGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 241,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 395
+        },
+        "username": "rara_0615xx",
+        "verified": false
+      }
+    ]
+  }
+}

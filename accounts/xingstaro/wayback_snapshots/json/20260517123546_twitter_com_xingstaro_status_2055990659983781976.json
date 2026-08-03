@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055990311709712616",
+    "created_at": "2026-05-17T12:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055990659983781976"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055990659983781976",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055990311709712616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亡鸡回忆录。。。。（什）如果我不是晓星我不会发这段话，因为账号流量一小我什么屁事都会随口叭叭，发在碳水或者其他圈账号的话太恐怖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055990311709712616",
+        "created_at": "2026-05-17T12:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055990659983781976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055990659983781976",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055990311709712616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亡鸡回忆录。。。。（什）如果我不是晓星我不会发这段话，因为账号流量一小我什么屁事都会随口叭叭，发在碳水或者其他圈账号的话太恐怖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055990311709712616",
+        "created_at": "2026-05-17T12:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055990311709712616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055990311709712616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥其实是药圈里唯一一个跨领域跟我两个类型的账号长期互关的，我换账号鸡也fo，鸡死了复活又接着互fo，我对鸡哥没什么正负评价，单纯觉得太有缘了，现如今我1-3.0齐齐死掉以后，鸡的行踪也越来越神秘莫测，我们最终在新账号上再也没见过彼此了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 247,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 326
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

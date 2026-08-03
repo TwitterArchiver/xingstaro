@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2053450832763662820",
+    "created_at": "2026-05-11T00:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053637653925347442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052922316745809920",
+          "start": 0,
+          "username": "takahashiAya57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053637653925347442",
+    "in_reply_to_user_id": "2052922316745809920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053560654057902396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takahashiAya57 可以呀宝宝ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2053450832763662820",
+        "created_at": "2026-05-11T00:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053637653925347442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052922316745809920",
+              "start": 0,
+              "username": "takahashiAya57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053637653925347442",
+        "in_reply_to_user_id": "2052922316745809920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053560654057902396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takahashiAya57 可以呀宝宝ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052922316745809920",
+        "conversation_id": "2053450832763662820",
+        "created_at": "2026-05-10T19:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053560654057902396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053560654057902396",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053450832763662820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 我可以吗中抑！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 随便怎么叫！\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星永不打烊",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 73,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T01:25:43.000Z",
+        "description": "かわりにこの終点に、夏を教えてくれ。\n我是小药。\n18 ↓｜生日2013.5.7｜低龄傻福｜不登校｜不od 自残 ｜中抑中焦\n只存在于互联网的天使",
+        "id": "2052922316745809920",
+        "location": "梦",
+        "name": "盛夏将我灼伤",
+        "pinned_tweet_id": "2053220880017490021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052930389438767104/b5GTTuDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "takahashiAya57",
+        "verified": false
+      }
+    ]
+  }
+}

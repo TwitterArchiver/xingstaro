@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055297604460916898",
+    "created_at": "2026-05-16T04:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055498617897800125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "jiuyouforwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055498617897800125",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055297604460916898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite2 小十七猛烈地嗡嗡作响！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 599,
+        "media_key": "3_2055296926615240704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXhqlLagAAqGDl.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055297604460916898",
+        "created_at": "2026-05-16T04:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055498617897800125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "jiuyouforwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055498617897800125",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055297604460916898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite2 小十七猛烈地嗡嗡作响！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055296926615240704"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2055297604460916898",
+        "created_at": "2026-05-15T14:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055297604460916898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4AGSuzmR0a",
+              "end": 92,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2055297604460916898/photo/1",
+              "media_key": "3_2055296926615240704",
+              "start": 69,
+              "url": "https://t.co/4AGSuzmR0a"
+            },
+            {
+              "display_url": "x.com/xingstaro/stat…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/xingstaro/status/2055286619142537543",
+              "start": 93,
+              "url": "https://t.co/jeYTgyRbwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055297604460916898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055286619142537543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我网页版x的超绝自动翻译，把中文翻译为英文然后又自动翻译为中文\n翻译来翻译去又翻译回来了??！\n你看看你给我翻译成什么了??我请问呢?? https://t.co/4AGSuzmR0a https://t.co/jeYTgyRbwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 232,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 277
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "反胃的YozoOba/一号:@jiuyouforwhite/偏爱:@xingstaro/师长:@futi999139732/好友:@Lomyral114514、@h1zh816060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "jiuyouforwhite"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xingstaro"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "futi999139732"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "h1zh816060"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "YozoOba反胃的",
+        "pinned_tweet_id": "2055250672657064041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054913557297610752/3NKcf-Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 37,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 24
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

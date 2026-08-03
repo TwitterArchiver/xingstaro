@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2071885926146638286",
+    "created_at": "2026-07-01T01:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072127207292756443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944593834819907584",
+          "start": 0,
+          "username": "xinh884573"
+        },
+        {
+          "end": 25,
+          "id": "2047687133708599296",
+          "start": 12,
+          "username": "themaniachan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072127207292756443",
+    "in_reply_to_user_id": "1944593834819907584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072040932439155104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinh884573 @themaniachan 都不是哦 高中是不分科 大学也不是传统人文理工～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2071885926146638286",
+        "created_at": "2026-07-01T01:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072127207292756443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944593834819907584",
+              "start": 0,
+              "username": "xinh884573"
+            },
+            {
+              "end": 25,
+              "id": "2047687133708599296",
+              "start": 12,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072127207292756443",
+        "in_reply_to_user_id": "1944593834819907584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072040932439155104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinh884573 @themaniachan 都不是哦 高中是不分科 大学也不是传统人文理工～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944593834819907584",
+        "conversation_id": "2071885926146638286",
+        "created_at": "2026-06-30T19:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072040932439155104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            },
+            {
+              "end": 24,
+              "id": "2047687133708599296",
+              "start": 11,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072040932439155104",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071891093176590455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro @themaniachan 有点好奇好奇糯米是学文还是学理的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 442,
+          "like_count": 1235,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T03:04:41.000Z",
+        "description": "infj｜新手coser和oder｜欢迎交友",
+        "id": "1944593834819907584",
+        "name": "qhe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060422833776496641/LjP64OZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 57,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "xinh884573",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 221,
+          "like_count": 1026,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 873
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

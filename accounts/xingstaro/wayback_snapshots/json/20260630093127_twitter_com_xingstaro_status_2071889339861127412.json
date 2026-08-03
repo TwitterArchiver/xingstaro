@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2071723337345273997",
+    "created_at": "2026-06-30T09:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071889339861127412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065198847698337792",
+          "start": 0,
+          "username": "mzmorz8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071889339861127412",
+    "in_reply_to_user_id": "2065198847698337792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071723337345273997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzmorz8964 感觉都不是什么缺点啊……很萌 找神经病玩吧 我感觉只有神经病能理解神经病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2071723337345273997",
+        "created_at": "2026-06-30T09:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071889339861127412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065198847698337792",
+              "start": 0,
+              "username": "mzmorz8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071889339861127412",
+        "in_reply_to_user_id": "2065198847698337792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071723337345273997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzmorz8964 感觉都不是什么缺点啊……很萌 找神经病玩吧 我感觉只有神经病能理解神经病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198847698337792",
+        "conversation_id": "2071723337345273997",
+        "created_at": "2026-06-29T22:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T23:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071723337345273997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071723337345273997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不幻想自己有一个爱人。像我这样休学、od、自残、抽烟、酗酒、穷困潦倒、撒谎成性、情感淡漠的人真的会有人看上？能看上我也应该病的不轻吧（虽然我这种永远堕落的状态确实很适合某些白骑士）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中借用星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 432,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "只存在于互联网的精神病人｜泛男  友跨  不鉴证｜ 高中休学中 ｜焦虑 双相  PTSD  DPDR  BPD倾向（因年龄问题未确诊，但也约等于板上钉钉了）｜大家都要好好活下去 ｜随时可以找我聊天或者骚扰｜梦想是在七月十九日和人一起回归天空",
+        "id": "2065198847698337792",
+        "location": "終ノ空",
+        "name": "翻过护栏即可通往天堂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065200745016881152/mlVjgSLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 51,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "mzmorz8964",
+        "verified": false
+      }
+    ]
+  }
+}

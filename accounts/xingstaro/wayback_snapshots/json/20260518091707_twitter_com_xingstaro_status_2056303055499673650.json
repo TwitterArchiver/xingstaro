@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056235871817589089",
+    "created_at": "2026-05-18T09:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056303055499673650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1769324132955766784",
+          "start": 0,
+          "username": "REYORIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056303055499673650",
+    "in_reply_to_user_id": "1769324132955766784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056301024584036490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@REYORIu 可以 但是综合大家的反馈来看 应该没有sns致幻概率高 但是欣快感我有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T09:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056303055499673650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1769324132955766784",
+              "start": 0,
+              "username": "REYORIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056303055499673650",
+        "in_reply_to_user_id": "1769324132955766784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056301024584036490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@REYORIu 可以 但是综合大家的反馈来看 应该没有sns致幻概率高 但是欣快感我有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769324132955766784",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T09:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056301024584036490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056301024584036490",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056237043664171164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 所以右佐也可以吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 287,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 392
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T11:25:29.000Z",
+        "description": "你站在我面前 我觉得隔了一个海洋 你恐水 而我不会游泳 你和我大概都有苦衷 所以最后无法成为我们",
+        "id": "1769324132955766784",
+        "name": "不过是你顺水推舟",
+        "pinned_tweet_id": "1987881488034246737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044722710388125696/qH-kkm5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 159,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 823
+        },
+        "username": "REYORIu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057805492836290899",
+    "created_at": "2026-05-24T04:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058406977932587374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1603310799618859008",
+          "start": 0,
+          "username": "sanyangyunyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058406977932587374",
+    "in_reply_to_user_id": "1603310799618859008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058342711057584261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanyangyunyun 耶比！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057805492836290899",
+        "created_at": "2026-05-24T04:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058406977932587374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1603310799618859008",
+              "start": 0,
+              "username": "sanyangyunyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058406977932587374",
+        "in_reply_to_user_id": "1603310799618859008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058342711057584261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanyangyunyun 耶比！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603310799618859008",
+        "conversation_id": "2057805492836290899",
+        "created_at": "2026-05-24T00:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058342711057584261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058342711057584261",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057805492836290899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 耶耶耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘id的变体 非好感请勿私信\n互fo查成分回 我回得慢可以评论区戳我\n100%神经病/drea💊mugtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 393,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 713
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T08:48:14.000Z",
+        "description": "只会被自己的fo看到的透明人😡✟od✟INFP✟不键政👿",
+        "id": "1603310799618859008",
+        "name": "云智风乃",
+        "pinned_tweet_id": "1792760945879761121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029261239642406917/aVnthXhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 327,
+          "like_count": 16790,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 7249
+        },
+        "username": "sanyangyunyun",
+        "verified": false
+      }
+    ]
+  }
+}

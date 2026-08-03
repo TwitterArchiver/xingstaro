@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2053773584816873628",
+    "created_at": "2026-05-11T09:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053773584816873628"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053773584816873628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在无助我好想和亲友贴贴，但我线下亲友都不在我的行政区了2个去了市中心全日制学习，还有好几个在省内，其他的更是全国绝赞社畜中，我好想没见到大家了，好想和大家抱抱，诶……\n友谊脑哭了。要不小区里刷新出一条毛绒绒的小狗也行啊好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2053773584816873628",
+        "created_at": "2026-05-11T09:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053773584816873628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053773584816873628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在无助我好想和亲友贴贴，但我线下亲友都不在我的行政区了2个去了市中心全日制学习，还有好几个在省内，其他的更是全国绝赞社畜中，我好想没见到大家了，好想和大家抱抱，诶……\n友谊脑哭了。要不小区里刷新出一条毛绒绒的小狗也行啊好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是一神秘食物的转世\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星永不打烊",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 96,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 79
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

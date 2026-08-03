@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2071929743100784746",
+    "created_at": "2026-06-30T12:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071929977671459151"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071929977671459151",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071929743100784746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太久没有专门发手冲品鉴了 其实经常在品鉴！只是好像每次爽完了都很着急要么赶着午睡要么赶着晚睡 好惬意好久没有松弛地品鉴回顾我的快感了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2071929743100784746",
+        "created_at": "2026-06-30T12:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071929977671459151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071929977671459151",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071929743100784746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太久没有专门发手冲品鉴了 其实经常在品鉴！只是好像每次爽完了都很着急要么赶着午睡要么赶着晚睡 好惬意好久没有松弛地品鉴回顾我的快感了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2071929743100784746",
+        "created_at": "2026-06-30T12:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071929743100784746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071929743100784746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冲完精彩广泛的两把以后 淡淡地欣快 \n“事后烟”三个字完美形容我此刻的感觉 哪怕我根本不抽烟草 游离于世界 戏谑而惬意地笑着 欣快松弛 然而依旧冷淡旁观\n仿若一阵烟雾从口里吐出 像我和世界隔着的透明雨伞 有趣的快感 无趣的快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 432,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

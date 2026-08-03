@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056235871817589089",
+    "created_at": "2026-05-18T12:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056351874413215817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1525433973111140353",
+          "start": 0,
+          "username": "10CFreeze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056351874413215817",
+    "in_reply_to_user_id": "1525433973111140353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056351563640410257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10CFreeze 是的……我也耐受了😭它仍然可以让我睡觉，却不具备其娱乐的作用了，它太容易耐受了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T12:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056351874413215817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1525433973111140353",
+              "start": 0,
+              "username": "10CFreeze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056351874413215817",
+        "in_reply_to_user_id": "1525433973111140353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056351563640410257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10CFreeze 是的……我也耐受了😭它仍然可以让我睡觉，却不具备其娱乐的作用了，它太容易耐受了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525433973111140353",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T12:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056351563640410257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056351563640410257",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 思诺思好，但我的体质不出幻，即使如此那种微微迷醉的困意是我最舒服的状态之一，既可以倒头关机也可以醒着刷手机\n2024年春天我最喜欢的就是服药后打一会生息演算然后药效来了把游戏收尾趴下就享受安眠\n可惜，他已经耐受了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 294,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 409
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T11:13:35.000Z",
+        "description": "舟批 澄厨\nArknights player，Goldenglow lover\n\n——————以上为原版简介——————\n\n把推特当推推空间用 / 不爱鉴证 / 想到什么会随便说说/想骂我就是你赢了 / 每天活在焦虑抑郁之中 / 屈服于无药的苦痛而重拾od/ 被bpd搞砸一切 / 不害怕bpd欢迎互关 / 已打工失败",
+        "id": "1525433973111140353",
+        "name": "10CFREEZE/テンフリーズ",
+        "pinned_tweet_id": "2038534772578975862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645932489544957952/d7Aovv6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 240,
+          "like_count": 3295,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 2417
+        },
+        "username": "10CFreeze",
+        "verified": false
+      }
+    ]
+  }
+}

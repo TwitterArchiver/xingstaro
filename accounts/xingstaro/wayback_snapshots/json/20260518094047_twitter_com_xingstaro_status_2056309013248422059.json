@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056279358256664810",
+    "created_at": "2026-05-18T09:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056309013248422059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056309013248422059",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056279358256664810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？？？我草0怎么又炸号了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056279358256664810",
+        "created_at": "2026-05-18T09:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056309013248422059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056309013248422059",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056279358256664810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？？？我草0怎么又炸号了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056279358256664810",
+        "created_at": "2026-05-18T07:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056279358256664810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elna_elvie9091…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/elna_elvie9091/status/2056259187903213614",
+              "start": 6,
+              "url": "https://t.co/0nsXDDSsds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056279358256664810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056259187903213614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小0霖宝宝 https://t.co/0nsXDDSsds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 288,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 394
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

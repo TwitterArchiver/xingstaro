@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054191785669529680",
+    "created_at": "2026-05-15T15:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055314572115075273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1783808130151043072",
+          "start": 0,
+          "username": "ya_nuo863"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055314572115075273",
+    "in_reply_to_user_id": "1783808130151043072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055305950857494909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ya_nuo863 因为本体带俩孩一起被ban了 我疑神疑鬼觉得直接4.0也会被举报 就改名秽土转生了！（结果发现没啥鸟用 转世第一天又被举报了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054191785669529680",
+        "created_at": "2026-05-15T15:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055314572115075273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1783808130151043072",
+              "start": 0,
+              "username": "ya_nuo863"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055314572115075273",
+        "in_reply_to_user_id": "1783808130151043072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055305950857494909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ya_nuo863 因为本体带俩孩一起被ban了 我疑神疑鬼觉得直接4.0也会被举报 就改名秽土转生了！（结果发现没啥鸟用 转世第一天又被举报了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783808130151043072",
+        "conversation_id": "2054191785669529680",
+        "created_at": "2026-05-15T15:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055305950857494909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055305950857494909",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054191785669529680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 可以好奇一下为什么改名了么😗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 215,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 263
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T10:39:47.000Z",
+        "description": "hallo/im noiya！\n中焦/国高在读\n大人請互fo❤️\n诺亚什么都能解决哦～",
+        "id": "1783808130151043072",
+        "name": "↑简易升天装置↑",
+        "pinned_tweet_id": "2041509629335884214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041453112184262656/a2UezjZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 309,
+          "like_count": 2678,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 221
+        },
+        "username": "ya_nuo863",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056235871817589089",
+    "created_at": "2026-05-19T01:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056541036508483975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2006759178195660800",
+          "start": 0,
+          "username": "liu1398774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056541036508483975",
+    "in_reply_to_user_id": "2006759178195660800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056455579867258887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu1398774 是的sns就是体质有缘就绝佳娱乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-19T01:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056541036508483975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006759178195660800",
+              "start": 0,
+              "username": "liu1398774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056541036508483975",
+        "in_reply_to_user_id": "2006759178195660800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056455579867258887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu1398774 是的sns就是体质有缘就绝佳娱乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006759178195660800",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T19:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056455579867258887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056455579867258887",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 我当安眠药吃过思诺思然后秒睡，就是吃完一睁眼就第二天那种…所以思诺思每个人差距这么大吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 299,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 446
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T16:07:37.000Z",
+        "description": "",
+        "id": "2006759178195660800",
+        "name": "liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047774818783899648/CRY4yG5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 82,
+          "like_count": 1829,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "liu1398774",
+        "verified": false
+      }
+    ]
+  }
+}

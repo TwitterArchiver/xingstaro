@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2078304913646575785",
+    "created_at": "2026-07-18T02:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078304913646575785"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078304913646575785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈回家一天我已成功戒色，她十二点前就开始发作说我再不洗澡她没得睡觉然后疯狂辱骂我，我也辱骂回去骂骂咧咧洗完澡了，我这个人洗澡前或者后一定要吃喹硫平，然后我吃完喹硫平开始剧烈被击晕，一点多躺在床上半昏迷只能睡觉了，因为喹硫平的致昏作用太强也没来得及手冲，24h不冲，奇迹来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2078304913646575785",
+        "created_at": "2026-07-18T02:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078304913646575785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078304913646575785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈回家一天我已成功戒色，她十二点前就开始发作说我再不洗澡她没得睡觉然后疯狂辱骂我，我也辱骂回去骂骂咧咧洗完澡了，我这个人洗澡前或者后一定要吃喹硫平，然后我吃完喹硫平开始剧烈被击晕，一点多躺在床上半昏迷只能睡觉了，因为喹硫平的致昏作用太强也没来得及手冲，24h不冲，奇迹来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 489,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

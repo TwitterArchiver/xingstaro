@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056235871817589089",
+    "created_at": "2026-05-18T09:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056300885874270652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841527273385840640",
+          "start": 0,
+          "username": "kansya123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056300885874270652",
+    "in_reply_to_user_id": "1841527273385840640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056279215532802450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansya123 那就不要吃了孩子👁️👁️当成安眠药也不错 我现在吃了也不起幻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T09:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056300885874270652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841527273385840640",
+              "start": 0,
+              "username": "kansya123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056300885874270652",
+        "in_reply_to_user_id": "1841527273385840640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056279215532802450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansya123 那就不要吃了孩子👁️👁️当成安眠药也不错 我现在吃了也不起幻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841527273385840640",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T07:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056279215532802450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056279215532802450",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 有一回吃了一盒思诺思也没用啊😭体质不同吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 287,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 391
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T17:15:06.000Z",
+        "description": "普通的学生 overdose 中国语 日本語",
+        "id": "1841527273385840640",
+        "name": "utu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973336055777722368/e4eWFUFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 28,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 236
+        },
+        "username": "kansya123",
+        "verified": false
+      }
+    ]
+  }
+}

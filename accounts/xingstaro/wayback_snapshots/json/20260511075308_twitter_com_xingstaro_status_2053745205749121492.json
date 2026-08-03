@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2053745205749121492",
+    "created_at": "2026-05-11T07:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053745205749121492"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053745205749121492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天好敏感啊（望天）\n一下子被别人说话不带笑容吓到了\n吓得我好想哭 赶紧又吃阿普唑仑\n呜呜呜呜呜呜呜呜呜呜呜能不能派其他侧面出来。。。。。我好想哭。。。。，，我要给自己哭诉 啊啊啊啊啊啊啊啊啊啊公司有人不对我笑啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2053745205749121492",
+        "created_at": "2026-05-11T07:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053745205749121492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053745205749121492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天好敏感啊（望天）\n一下子被别人说话不带笑容吓到了\n吓得我好想哭 赶紧又吃阿普唑仑\n呜呜呜呜呜呜呜呜呜呜呜能不能派其他侧面出来。。。。。我好想哭。。。。，，我要给自己哭诉 啊啊啊啊啊啊啊啊啊啊公司有人不对我笑啊啊啊啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是一神秘食物的转世\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星永不打烊",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 95,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 75
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2053641054423826547",
+    "created_at": "2026-05-11T00:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053641054423826547"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053641054423826547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚没睡好，睡着醒睡着醒，最后一次醒来快四点，我就把sns打碎服用，一下子一股温暖的感觉就涌上来，没有再醒了\n\n我梦到twt给我回信很长很长，把我的推文全部鞭尸还标注涂画，告诉我这条为什么违规那条为什么，我看了第一反应不是申辩这些有没有违规，而且，我草好累，看我不爽可以直说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2053641054423826547",
+        "created_at": "2026-05-11T00:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053641054423826547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053641054423826547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚没睡好，睡着醒睡着醒，最后一次醒来快四点，我就把sns打碎服用，一下子一股温暖的感觉就涌上来，没有再醒了\n\n我梦到twt给我回信很长很长，把我的推文全部鞭尸还标注涂画，告诉我这条为什么违规那条为什么，我看了第一反应不是申辩这些有没有违规，而且，我草好累，看我不爽可以直说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 随便怎么叫！\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星永不打烊",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 75,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

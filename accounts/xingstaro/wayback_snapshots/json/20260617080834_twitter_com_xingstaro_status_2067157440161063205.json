@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054203632053338154",
+    "created_at": "2026-06-17T08:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067157440161063205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991532007801909248",
+          "start": 0,
+          "username": "wxb202530605113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067157440161063205",
+    "in_reply_to_user_id": "1991532007801909248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067156007315480680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxb202530605113 猫猫！！贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054203632053338154",
+        "created_at": "2026-06-17T08:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067157440161063205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991532007801909248",
+              "start": 0,
+              "username": "wxb202530605113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067157440161063205",
+        "in_reply_to_user_id": "1991532007801909248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067156007315480680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb202530605113 猫猫！！贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991532007801909248",
+        "conversation_id": "2054203632053338154",
+        "created_at": "2026-06-17T08:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067156007315480680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067156007315480680",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054203632053338154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro ฅ猫猫来说对喜欢的人都是这样："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中借用星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/drea💊mugtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 398,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 751
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T15:40:17.000Z",
+        "description": "05丨CN丨性别：武装直升机丨种族：猫丨ENTP丨任何消息都会回的，任何。时间可能会长，但一定会回。",
+        "id": "1991532007801909248",
+        "name": "evil_cattttyyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060657450282553344/0KesHK5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 22,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 269
+        },
+        "username": "wxb202530605113",
+        "verified": false
+      }
+    ]
+  }
+}

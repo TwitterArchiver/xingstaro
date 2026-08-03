@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056235871817589089",
+    "created_at": "2026-05-18T07:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056277036738757101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051883537586941959",
+          "start": 0,
+          "username": "UppaEpop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056277036738757101",
+    "in_reply_to_user_id": "2051883537586941959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056274655519080740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UppaEpop 睡了个香的也不错🥰我有时候拿来抗抑郁 睡前1t睡够了第二天醒来精神状态很清澈明媚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T07:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056277036738757101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051883537586941959",
+              "start": 0,
+              "username": "UppaEpop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056277036738757101",
+        "in_reply_to_user_id": "2051883537586941959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056274655519080740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UppaEpop 睡了个香的也不错🥰我有时候拿来抗抑郁 睡前1t睡够了第二天醒来精神状态很清澈明媚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051883537586941959",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T07:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056274655519080740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056274655519080740",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 好羡慕，每次吃sns都只是睡了个香的😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 281,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 382
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T04:35:41.000Z",
+        "description": "2️⃣4️⃣K地地道道纯正土味中老年健全福✨\nOD/美食/观鸟/绘画/骂老板/日常记录推，指不定哪天信息摄入过量就销号了",
+        "id": "2051883537586941959",
+        "name": "坞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051932726954172416/SzJfuOgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 45,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "UppaEpop",
+        "verified": false
+      }
+    ]
+  }
+}

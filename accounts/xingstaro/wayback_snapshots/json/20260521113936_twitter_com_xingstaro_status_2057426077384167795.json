@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057425700161028163",
+    "created_at": "2026-05-21T11:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057426077384167795"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057426077384167795",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057425700161028163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我小时候没做好社会化，亲娘亲爹又不在身边，很多名词和语言行为习惯我都不能理解，很多词我是长大了自己更新的，我观察身边的人说这句话的语境然后习得这句话的使用方式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057425700161028163",
+        "created_at": "2026-05-21T11:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057426077384167795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057426077384167795",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057425700161028163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小时候没做好社会化，亲娘亲爹又不在身边，很多名词和语言行为习惯我都不能理解，很多词我是长大了自己更新的，我观察身边的人说这句话的语境然后习得这句话的使用方式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057425700161028163",
+        "created_at": "2026-05-21T11:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057425700161028163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057425700161028163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对我阴阳怪气，不如直接骂我，因为阴阳怪气我听不懂，我是真的听不懂，如果我没有及时更新互联网热门名词，我就听不懂\n我小学听不懂“劳驾”这个词，以为是疲劳驾驶。。。。。很长一段时间我不懂但我不敢问为什么excuse me＝疲劳驾驶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 368,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 619
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

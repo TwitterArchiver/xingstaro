@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2053639099085373515",
+    "created_at": "2026-05-11T00:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053639099085373515"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053639099085373515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可知 我现在换设备换节点 东躲西藏 真实身份要在🦋/tg解码的日子 有多诡异\n\n找到互关还要打哑谜，嗯嗯我是那个谁你懂得。除非我申诉回来，不然打着上一世的id头像又会被ban了，我以为重大犯罪才会过上这种改头换面金盆洗手的日子呵呵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2053639099085373515",
+        "created_at": "2026-05-11T00:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053639099085373515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053639099085373515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可知 我现在换设备换节点 东躲西藏 真实身份要在🦋/tg解码的日子 有多诡异\n\n找到互关还要打哑谜，嗯嗯我是那个谁你懂得。除非我申诉回来，不然打着上一世的id头像又会被ban了，我以为重大犯罪才会过上这种改头换面金盆洗手的日子呵呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 随便怎么叫！\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星永不打烊",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 75,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 45
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054191785669529680",
+    "created_at": "2026-05-16T03:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055488315189854626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013414264225308672",
+          "start": 0,
+          "username": "ourakusen3"
+        },
+        {
+          "end": 22,
+          "id": "2007104134466736129",
+          "start": 12,
+          "username": "peipeimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055488315189854626",
+    "in_reply_to_user_id": "2013414264225308672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055319082053054899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ourakusen3 @peipeimao 你的小号就像你的自尊心一样泛滥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054191785669529680",
+        "created_at": "2026-05-16T03:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055488315189854626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013414264225308672",
+              "start": 0,
+              "username": "ourakusen3"
+            },
+            {
+              "end": 22,
+              "id": "2007104134466736129",
+              "start": 12,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055488315189854626",
+        "in_reply_to_user_id": "2013414264225308672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055319082053054899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ourakusen3 @peipeimao 你的小号就像你的自尊心一样泛滥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013414264225308672",
+        "conversation_id": "2054191785669529680",
+        "created_at": "2026-05-15T16:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055319082053054899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            },
+            {
+              "end": 21,
+              "id": "2007104134466736129",
+              "start": 11,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055319082053054899",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055314736921936084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro @peipeimao 宝宝，现在你要死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 232,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 275
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T00:53:06.000Z",
+        "description": "",
+        "id": "2013414264225308672",
+        "name": "请",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023384283235434496/QQLIVEM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "ourakusen3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n128好友位日常陪聊/520我爱你/1314电子女友",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053490714286444544/9yOeSN-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4721,
+          "following_count": 173,
+          "like_count": 622,
+          "listed_count": 13,
+          "media_count": 96,
+          "tweet_count": 1786
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

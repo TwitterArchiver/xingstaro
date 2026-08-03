@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2072321135451205647",
+    "created_at": "2026-07-01T14:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072321135451205647"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072321135451205647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不买药 不卖药 请勿私信 勿闲聊勿交易 \n我一直觉得在线上交易处方药挺神经病的！未成年这样我还能当做是走投无路之举 成年了还这样我是真的不懂了！\n\nps友情交流请在一定时限内完成 不要持续性无休止私信 谢谢大家 爱你们 么么喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2072321135451205647",
+        "created_at": "2026-07-01T14:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072321135451205647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072321135451205647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不买药 不卖药 请勿私信 勿闲聊勿交易 \n我一直觉得在线上交易处方药挺神经病的！未成年这样我还能当做是走投无路之举 成年了还这样我是真的不懂了！\n\nps友情交流请在一定时限内完成 不要持续性无休止私信 谢谢大家 爱你们 么么喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 453,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 861
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

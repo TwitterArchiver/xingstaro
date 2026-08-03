@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055984907156177342",
+    "created_at": "2026-05-17T12:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055984907156177342"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055984907156177342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对庸俗的人生没有兴趣，我不会按部就班地结婚生子等养老，我对延续我这样烂如稀泥的生命没有兴趣，我会永远在追逐疯狂自我的道路上一往无前\n做健全人里的最体面，精神病里的最发癫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055984907156177342",
+        "created_at": "2026-05-17T12:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055984907156177342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055984907156177342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对庸俗的人生没有兴趣，我不会按部就班地结婚生子等养老，我对延续我这样烂如稀泥的生命没有兴趣，我会永远在追逐疯狂自我的道路上一往无前\n做健全人里的最体面，精神病里的最发癫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 246,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 321
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

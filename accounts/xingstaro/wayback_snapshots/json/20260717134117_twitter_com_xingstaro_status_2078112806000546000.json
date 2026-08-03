@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2077916999678562441",
+    "created_at": "2026-07-17T13:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078112806000546000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991532007801909248",
+          "start": 0,
+          "username": "wxb202530605113"
+        },
+        {
+          "end": 30,
+          "id": "1579442033483075584",
+          "start": 17,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078112806000546000",
+    "in_reply_to_user_id": "1991532007801909248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078104091880792069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxb202530605113 @26suversider 刷推好🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2077916999678562441",
+        "created_at": "2026-07-17T13:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078112806000546000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991532007801909248",
+              "start": 0,
+              "username": "wxb202530605113"
+            },
+            {
+              "end": 30,
+              "id": "1579442033483075584",
+              "start": 17,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078112806000546000",
+        "in_reply_to_user_id": "1991532007801909248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078104091880792069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb202530605113 @26suversider 刷推好🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991532007801909248",
+        "conversation_id": "2077916999678562441",
+        "created_at": "2026-07-17T13:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078104091880792069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            },
+            {
+              "end": 24,
+              "id": "1579442033483075584",
+              "start": 11,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078104091880792069",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078068934885171289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro @26suversider 上课刷推...\n身边哪有那么多关注ᗜ𖥦ᗜ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 487,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 935
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T15:40:17.000Z",
+        "description": "只是一只猫罢了丨为什么同一片天空下总有人不在春日里......",
+        "id": "1991532007801909248",
+        "name": "evil_cattttyyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060657450282553344/0KesHK5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 24,
+          "like_count": 1304,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "wxb202530605113",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bRRAIqGEOS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sukieu1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sukieu1",
+                "start": 21,
+                "url": "https://t.co/bRRAIqGEOS"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 133,
+          "like_count": 964,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1061
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

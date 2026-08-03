@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057746648961536419",
+    "created_at": "2026-05-22T08:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057746648961536419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/numiouoo/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/numiouoo/status/2057736649417855377",
+          "start": 36,
+          "url": "https://t.co/hBMdBMd9aD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057746648961536419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057736649417855377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "碳水来惹QAQ请帮碳水转发\n⭐的大家快来参与内测(&gt; &lt;) https://t.co/hBMdBMd9aD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057746648961536419",
+        "created_at": "2026-05-22T08:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057746648961536419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/numiouoo/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/numiouoo/status/2057736649417855377",
+              "start": 36,
+              "url": "https://t.co/hBMdBMd9aD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057746648961536419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057736649417855377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "碳水来惹QAQ请帮碳水转发\n⭐的大家快来参与内测(&gt; &lt;) https://t.co/hBMdBMd9aD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2057736649417855377",
+        "created_at": "2026-05-22T08:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057736649417855377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057736649417855377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请帮我转发QAQ\n我是糯米🍬，锁推后因试探中推卧底，舍身炸粪坑，1.0-3.0剧烈牺牲，十天申诉无果，痛失4k互关，遂落户本账号喵ᰔᩚ/•᷅•᷄\\୭\n\n请再一次与我相遇吧。无论何时何地。\n我想永远陪在大家身边˗ˋˏ ♡ ˎˊ˗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 379,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 671
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们❤️双胞胎已🧊@Numiouo\n唯爱同类❤️我素精神病❤️永远爱大家\n请再一次与我相遇 我要永远和你们贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "Numiouo"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸（地球OL4.0）",
+        "pinned_tweet_id": "2057733409720696909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

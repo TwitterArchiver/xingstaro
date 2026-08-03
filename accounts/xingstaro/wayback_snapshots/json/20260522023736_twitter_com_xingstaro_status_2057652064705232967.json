@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057502431882412184",
+    "created_at": "2026-05-22T02:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057652064705232967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929070811241132032",
+          "start": 0,
+          "username": "GGGisena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057652064705232967",
+    "in_reply_to_user_id": "1929070811241132032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057502431882412184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGGisena 请随意继承👁️👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057502431882412184",
+        "created_at": "2026-05-22T02:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057652064705232967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929070811241132032",
+              "start": 0,
+              "username": "GGGisena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057652064705232967",
+        "in_reply_to_user_id": "1929070811241132032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057502431882412184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGGisena 请随意继承👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929070811241132032",
+        "conversation_id": "2057502431882412184",
+        "created_at": "2026-05-21T16:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057502431882412184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057502431882412184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互fo们其实我想和更多人互的时候会去翻你们的跟随"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 373,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 667
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T07:01:45.000Z",
+        "description": "ElleWu｜10年12月｜东莞/中山｜同类直fo｜餐卷｜戒割o中｜🚪私｜",
+        "id": "1929070811241132032",
+        "location": "3.1km",
+        "name": "Ellaaa",
+        "pinned_tweet_id": "2047497800951435522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056292303548170240/csrJSFGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 206,
+          "like_count": 493,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 515
+        },
+        "username": "GGGisena",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057204186220253518",
+    "created_at": "2026-05-21T00:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057253685127004622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "747213446911922176",
+          "start": 0,
+          "username": "ura_samuko"
+        },
+        {
+          "end": 22,
+          "id": "94999172",
+          "start": 12,
+          "username": "toukorina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057253685127004622",
+    "in_reply_to_user_id": "747213446911922176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057251965927846365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ura_samuko @toukorina 早安🐙🐙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057204186220253518",
+        "created_at": "2026-05-21T00:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057253685127004622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "747213446911922176",
+              "start": 0,
+              "username": "ura_samuko"
+            },
+            {
+              "end": 22,
+              "id": "94999172",
+              "start": 12,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057253685127004622",
+        "in_reply_to_user_id": "747213446911922176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057251965927846365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ura_samuko @toukorina 早安🐙🐙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "747213446911922176",
+        "conversation_id": "2057204186220253518",
+        "created_at": "2026-05-21T00:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057251965927846365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            },
+            {
+              "end": 21,
+              "id": "94999172",
+              "start": 11,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057251965927846365",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057251150118986181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro @toukorina 早安&lt;数据删除&gt;星"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 357,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 579
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-26T23:42:23.000Z",
+        "description": "雑多な、絵を描く。本垢に @TamikoTomorika \n苦楽無凡、言葉遣い荒く。\n自分わ抱きしめたい(笑)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "TamikoTomorika"
+              }
+            ]
+          }
+        },
+        "id": "747213446911922176",
+        "name": "さむ",
+        "pinned_tweet_id": "1985487275946623149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985460011695554567/-2Ush8Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 149,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 193
+        },
+        "username": "ura_samuko",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touko.social",
+                "end": 23,
+                "expanded_url": "https://touko.social",
+                "start": 0,
+                "url": "https://t.co/wlHCBJDIp1"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7318,
+          "following_count": 923,
+          "like_count": 170270,
+          "listed_count": 17,
+          "media_count": 1490,
+          "tweet_count": 43336
+        },
+        "url": "https://t.co/wlHCBJDIp1",
+        "username": "toukorina",
+        "verified": false
+      }
+    ]
+  }
+}

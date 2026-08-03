@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054129648771153936",
+    "created_at": "2026-05-12T13:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054190350819029229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987604380896600064",
+          "start": 0,
+          "username": "kurage2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054190350819029229",
+    "in_reply_to_user_id": "1987604380896600064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054129648771153936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurage2333 萌晕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3085,
+        "height": 1280,
+        "media_key": "13_2054129587798573056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054129587798573056/img/qs2Q6tYbQ_iIxfQD.jpg",
+        "public_metrics": {
+          "view_count": 148
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054129587798573056/vid/avc1/320x604/quQ2sqf3-Jpgevie.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054129587798573056/vid/avc1/480x908/Pm24jgMFskgJ-_om.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054129587798573056/vid/avc1/676x1280/WE0jll6Acmc27jIy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054129587798573056/pl/05t5ZfOkkdDA9Q6N.m3u8"
+          }
+        ],
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054129648771153936",
+        "created_at": "2026-05-12T13:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054190350819029229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054190350819029229",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054129648771153936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 萌晕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054129587798573056"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054129648771153936",
+        "created_at": "2026-05-12T09:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054129648771153936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJBoBDuO1o",
+              "end": 35,
+              "expanded_url": "https://x.com/kurage2333/status/2054129648771153936/video/1",
+              "media_key": "13_2054129587798573056",
+              "start": 12,
+              "url": "https://t.co/cJBoBDuO1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054129648771153936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在家不爱穿裤子的来了。 https://t.co/cJBoBDuO1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 177,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 135
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 290,
+          "like_count": 3395,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 969
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

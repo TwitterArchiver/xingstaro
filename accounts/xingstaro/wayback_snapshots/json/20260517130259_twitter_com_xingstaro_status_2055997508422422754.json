@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055991769477915054",
+    "created_at": "2026-05-17T13:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055997508422422754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1695314246735892480",
+          "start": 0,
+          "username": "szfx123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055997508422422754",
+    "in_reply_to_user_id": "1695314246735892480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055994521625010651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szfx123 喵喵喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 271,
+        "media_key": "3_2055994519116763138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhcHzwa0AIAYdM.jpg",
+        "width": 267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055991769477915054",
+        "created_at": "2026-05-17T13:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055997508422422754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1695314246735892480",
+              "start": 0,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055997508422422754",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055994521625010651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szfx123 喵喵喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055994519116763138"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2055991769477915054",
+        "created_at": "2026-05-17T12:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055994521625010651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWsLeuMox5",
+              "end": 34,
+              "expanded_url": "https://x.com/szfx123/status/2055994521625010651/photo/1",
+              "media_key": "3_2055994519116763138",
+              "start": 11,
+              "url": "https://t.co/bWsLeuMox5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055994521625010651",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055991769477915054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro https://t.co/bWsLeuMox5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 247,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 329
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独压抑 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055374632459640833/3VB4gST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 133,
+          "like_count": 8864,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 293
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

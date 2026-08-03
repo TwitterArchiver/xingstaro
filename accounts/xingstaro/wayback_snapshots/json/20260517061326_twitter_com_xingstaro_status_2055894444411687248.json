@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055850227027030268",
+    "created_at": "2026-05-17T06:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055894444411687248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812188006058471424",
+          "start": 0,
+          "username": "xioyyyy979320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055894444411687248",
+    "in_reply_to_user_id": "1812188006058471424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055889221068693606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioyyyy979320 只有聪明顽强的孢子才能存活QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055850227027030268",
+        "created_at": "2026-05-17T06:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055894444411687248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812188006058471424",
+              "start": 0,
+              "username": "xioyyyy979320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055894444411687248",
+        "in_reply_to_user_id": "1812188006058471424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055889221068693606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioyyyy979320 只有聪明顽强的孢子才能存活QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812188006058471424",
+        "conversation_id": "2055850227027030268",
+        "created_at": "2026-05-17T05:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055889221068693606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055889221068693606",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055850227027030268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 优胜劣汰式种法！^ω^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 241,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 308
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T18:11:28.000Z",
+        "description": ".",
+        "id": "1812188006058471424",
+        "name": "liher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999102088903905280/MyA142m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 31,
+          "like_count": 3514,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 303
+        },
+        "username": "xioyyyy979320",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056406199554416952",
+    "created_at": "2026-05-18T16:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056408808327647283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2052606912248885248",
+          "start": 0,
+          "username": "Jzbenw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056408808327647283",
+    "in_reply_to_user_id": "2052606912248885248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056407397946806547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jzbenw 好诡异的夹心饼干👁️👁️👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056406199554416952",
+        "created_at": "2026-05-18T16:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056408808327647283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2052606912248885248",
+              "start": 0,
+              "username": "Jzbenw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056408808327647283",
+        "in_reply_to_user_id": "2052606912248885248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056407397946806547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jzbenw 好诡异的夹心饼干👁️👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052606912248885248",
+        "conversation_id": "2056406199554416952",
+        "created_at": "2026-05-18T16:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056407397946806547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056407397946806547",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056406199554416952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 蛮新奇…你下次可以试着同时录下两个自己 好像自己在磕另一个女孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 297,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 433
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T04:30:16.000Z",
+        "description": "我要收集很多大奶 大奶来冲死我",
+        "id": "2052606912248885248",
+        "name": "Jzbenw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054588332672475136/hMwhkmkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 110,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "username": "Jzbenw",
+        "verified": false
+      }
+    ]
+  }
+}

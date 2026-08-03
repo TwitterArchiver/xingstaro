@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055157655677886925",
+    "created_at": "2026-05-15T05:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055159839375163838"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055159839375163838",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055157655677886925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道是低血压还是血管迷走性晕厥反正不是低血糖 血上不来头顶所以供血不足 蹲下来就没事 日常血压大概是90/58 我也弄不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055157655677886925",
+        "created_at": "2026-05-15T05:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055159839375163838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055159839375163838",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055157655677886925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道是低血压还是血管迷走性晕厥反正不是低血糖 血上不来头顶所以供血不足 蹲下来就没事 日常血压大概是90/58 我也弄不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055157655677886925",
+        "created_at": "2026-05-15T05:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055157655677886925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055157655677886925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加班到十一点半第二天五点半起，然后疯狂低血压，同事在讲话我眼前在冒一片片的雪花马赛克，每个同事的脸都像在psychs trip里一样抽象锐化！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 207,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 235
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

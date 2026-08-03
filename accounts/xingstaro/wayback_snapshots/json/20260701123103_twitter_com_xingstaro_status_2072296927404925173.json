@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2072296927404925173",
+    "created_at": "2026-07-01T12:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072296927404925173"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072296927404925173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下楼梯的时候踩空了剧烈崴脚，坐在地上无声地嘶哑咧嘴，这个时候想的不是痛，而是“卧槽幸好同事都下班了”然后坐在地上继续缓，缓完一瘸一拐地开车去了，0个人看见我丢脸真是太好了。。。。。\n崴的还是右脚别问我怎么开车的，毒驾都驾过了残驾也是小操作喵（请勿模仿我是狂野疯猴）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2072296927404925173",
+        "created_at": "2026-07-01T12:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072296927404925173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072296927404925173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下楼梯的时候踩空了剧烈崴脚，坐在地上无声地嘶哑咧嘴，这个时候想的不是痛，而是“卧槽幸好同事都下班了”然后坐在地上继续缓，缓完一瘸一拐地开车去了，0个人看见我丢脸真是太好了。。。。。\n崴的还是右脚别问我怎么开车的，毒驾都驾过了残驾也是小操作喵（请勿模仿我是狂野疯猴）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 452,
+          "like_count": 1273,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

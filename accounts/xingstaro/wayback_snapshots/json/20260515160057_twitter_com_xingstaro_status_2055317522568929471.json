@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055276119033823560",
+    "created_at": "2026-05-15T16:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055317522568929471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680560555936088065",
+          "start": 0,
+          "username": "ourakusen1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055317522568929471",
+    "in_reply_to_user_id": "1680560555936088065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055317323968651686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ourakusen1n 很少ban人 傻屌除外"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055276119033823560",
+        "created_at": "2026-05-15T16:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055317522568929471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680560555936088065",
+              "start": 0,
+              "username": "ourakusen1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055317522568929471",
+        "in_reply_to_user_id": "1680560555936088065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055317323968651686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ourakusen1n 很少ban人 傻屌除外"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680560555936088065",
+        "conversation_id": "2055276119033823560",
+        "created_at": "2026-05-15T16:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055317323968651686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055317323968651686",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055316866114183664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 215,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 268
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T12:50:41.000Z",
+        "description": "妓女还是早点去死吧",
+        "id": "1680560555936088065",
+        "location": "l",
+        "name": "最是人间留得住",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686837794705166336/TlxY4G7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 191,
+          "like_count": 1009,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 1980
+        },
+        "username": "ourakusen1n",
+        "verified": false
+      }
+    ]
+  }
+}

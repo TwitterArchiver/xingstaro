@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056235871817589089",
+    "created_at": "2026-05-19T01:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056540918845735023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "68868234",
+          "start": 0,
+          "username": "Ne1lHeyw00d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056540918845735023",
+    "in_reply_to_user_id": "68868234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056431521452687756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ne1lHeyw00d sns没有什么资历不资历的吧 就一精品神药 卖sns确实是有点堪忧了赚的钱少惹的麻烦大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-19T01:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056540918845735023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "68868234",
+              "start": 0,
+              "username": "Ne1lHeyw00d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056540918845735023",
+        "in_reply_to_user_id": "68868234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056431521452687756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ne1lHeyw00d sns没有什么资历不资历的吧 就一精品神药 卖sns确实是有点堪忧了赚的钱少惹的麻烦大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "68868234",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T17:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056431521452687756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056431521452687756",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 那个什么猫的男友早在普瑞巴林进之前，就因为私自出售sns判刑了。这也能称资历的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 299,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 445
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-26T01:46:00.000Z",
+        "description": "你可以口无遮拦的发表评论，网络记忆你是删不掉的，有个政审，当兵入党，考公考编，你家三代最好用不到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/a0nGHzpVaD"
+              }
+            ]
+          }
+        },
+        "id": "68868234",
+        "location": "ip：外国",
+        "name": "babycost",
+        "pinned_tweet_id": "2053966714111668409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052491236242812928/_1yMu2JR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 9,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/a0nGHzpVaD",
+        "username": "Ne1lHeyw00d",
+        "verified": false
+      }
+    ]
+  }
+}

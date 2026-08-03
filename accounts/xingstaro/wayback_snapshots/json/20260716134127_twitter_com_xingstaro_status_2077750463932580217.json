@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2077257167028289558",
+    "created_at": "2026-07-16T13:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077750463932580217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1932702866571239424",
+          "start": 0,
+          "username": "Uchina_Ob1450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077750463932580217",
+    "in_reply_to_user_id": "1932702866571239424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077661173886173620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uchina_Ob1450 噫呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2077257167028289558",
+        "created_at": "2026-07-16T13:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077750463932580217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1932702866571239424",
+              "start": 0,
+              "username": "Uchina_Ob1450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077750463932580217",
+        "in_reply_to_user_id": "1932702866571239424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077661173886173620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uchina_Ob1450 噫呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932702866571239424",
+        "conversation_id": "2077257167028289558",
+        "created_at": "2026-07-16T07:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077661173886173620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077661173886173620",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077257167028289558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 太慘了😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 483,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T07:34:25.000Z",
+        "description": "鏡子不磨不平\n支黑反賊不滅不行\n試看將來的環球\n必是赤旗的世界",
+        "id": "1932702866571239424",
+        "location": "宇智波村",
+        "name": "神秘面具男·滅殖之刃",
+        "pinned_tweet_id": "2030880810778443809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976079095126765568/GbWPFVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 320,
+          "like_count": 2955,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 2894
+        },
+        "url": "",
+        "username": "Uchina_Ob1450",
+        "verified": false
+      }
+    ]
+  }
+}

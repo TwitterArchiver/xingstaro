@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055850227027030268",
+    "created_at": "2026-05-19T01:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056554884338761753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1603310799618859008",
+          "start": 0,
+          "username": "sanyangyunyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056554884338761753",
+    "in_reply_to_user_id": "1603310799618859008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056547251720516083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanyangyunyun 一辈子只能吃一次🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055850227027030268",
+        "created_at": "2026-05-19T01:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056554884338761753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1603310799618859008",
+              "start": 0,
+              "username": "sanyangyunyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056554884338761753",
+        "in_reply_to_user_id": "1603310799618859008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056547251720516083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanyangyunyun 一辈子只能吃一次🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603310799618859008",
+        "conversation_id": "2055850227027030268",
+        "created_at": "2026-05-19T01:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056547251720516083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056547251720516083",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055850227027030268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 吃吃星星牌魔法蘑菇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 302,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 456
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T08:48:14.000Z",
+        "description": "只会被自己的fo看到的透明人😡✟od✟INFP✟不键政👿",
+        "id": "1603310799618859008",
+        "name": "云智风乃",
+        "pinned_tweet_id": "1792760945879761121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029261239642406917/aVnthXhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 322,
+          "like_count": 16709,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 7210
+        },
+        "username": "sanyangyunyun",
+        "verified": false
+      }
+    ]
+  }
+}

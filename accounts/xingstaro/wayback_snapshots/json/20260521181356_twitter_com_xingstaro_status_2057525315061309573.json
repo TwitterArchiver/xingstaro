@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057140756763336909",
+    "created_at": "2026-05-21T18:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057525315061309573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2005197236628840448",
+          "start": 0,
+          "username": "Ruri_17T6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057525315061309573",
+    "in_reply_to_user_id": "2005197236628840448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057522896319529420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruri_17T6 呜呜呜呜呜呜呜呜呜呜呜呜我哭惹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057140756763336909",
+        "created_at": "2026-05-21T18:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057525315061309573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2005197236628840448",
+              "start": 0,
+              "username": "Ruri_17T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057525315061309573",
+        "in_reply_to_user_id": "2005197236628840448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057522896319529420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruri_17T6 呜呜呜呜呜呜呜呜呜呜呜呜我哭惹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005197236628840448",
+        "conversation_id": "2057140756763336909",
+        "created_at": "2026-05-21T18:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057522896319529420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057522896319529420",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057140756763336909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 終於找到泥了星星🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 371,
+          "like_count": 1045,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 652
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T08:41:06.000Z",
+        "description": "ಇ.朝霞 | 焦慮創傷恐慌治療中(新增解離) | 厭男/厭正常健全人。| ｡.:*･ﾟ☆.｡.:*･ﾟ”￡(｡･”･)-†",
+        "id": "2005197236628840448",
+        "name": "ㄓㄒ2.0",
+        "pinned_tweet_id": "2014178575554158943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005215503162421248/muYGBQ3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 64,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 409
+        },
+        "username": "Ruri_17T6",
+        "verified": false
+      }
+    ]
+  }
+}

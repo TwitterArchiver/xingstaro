@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054068170558930944"
+      ]
+    },
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054068183800459323",
+    "created_at": "2026-05-12T05:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T06:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054068183800459323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eVc7b0IdwT",
+          "end": 56,
+          "expanded_url": "https://x.com/xingstaro/status/2054068183800459323/photo/1",
+          "media_key": "3_2054068170558930944",
+          "start": 33,
+          "url": "https://t.co/eVc7b0IdwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054068183800459323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在这个情况是ai在糊弄我对吗。。我得不断申诉直到人工介入（？） https://t.co/eVc7b0IdwT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2054068170558930944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGEHkKaAAA5aL6.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054068170558930944"
+          ]
+        },
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054068183800459323",
+        "created_at": "2026-05-12T05:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054068183800459323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVc7b0IdwT",
+              "end": 56,
+              "expanded_url": "https://x.com/xingstaro/status/2054068183800459323/photo/1",
+              "media_key": "3_2054068170558930944",
+              "start": 33,
+              "url": "https://t.co/eVc7b0IdwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054068183800459323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在这个情况是ai在糊弄我对吗。。我得不断申诉直到人工介入（？） https://t.co/eVc7b0IdwT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是一神秘食物的转世\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 138,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 88
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

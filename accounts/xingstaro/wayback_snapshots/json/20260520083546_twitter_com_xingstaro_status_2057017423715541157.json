@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056933400456618151",
+    "created_at": "2026-05-20T08:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T09:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057017423715541157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812188006058471424",
+          "start": 0,
+          "username": "xioyyyy979320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057017423715541157",
+    "in_reply_to_user_id": "1812188006058471424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057014284950135135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioyyyy979320 笑死我了啊啊啊啊啊啊免责声明比正文还长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056933400456618151",
+        "created_at": "2026-05-20T08:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057017423715541157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812188006058471424",
+              "start": 0,
+              "username": "xioyyyy979320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057017423715541157",
+        "in_reply_to_user_id": "1812188006058471424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057014284950135135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioyyyy979320 笑死我了啊啊啊啊啊啊免责声明比正文还长"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812188006058471424",
+        "conversation_id": "2056933400456618151",
+        "created_at": "2026-05-20T08:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057014284950135135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057014284950135135",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056933400456618151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 未来免责声明要大于本文了 上到特朗普下到猿猴人 谢天谢地谢上帝  封建清末进修回来后的msk想要制作纯良健全黑色微博X版  一个开刀的却是简中用户msk疑似衡水学校出身看到帖子ptsd了（bushi    抱抱星星喵  ˃ ˄ ˂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 335,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 509
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T18:11:28.000Z",
+        "description": "黎禾",
+        "id": "1812188006058471424",
+        "name": "liher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999102088903905280/MyA142m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 34,
+          "like_count": 3934,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 344
+        },
+        "username": "xioyyyy979320",
+        "verified": false
+      }
+    ]
+  }
+}

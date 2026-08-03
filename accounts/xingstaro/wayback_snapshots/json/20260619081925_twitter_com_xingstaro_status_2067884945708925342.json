@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2067587556112523730",
+    "created_at": "2026-06-19T08:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067884945708925342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993098158495395840",
+          "start": 0,
+          "username": "kfqnszVKWv91426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067884945708925342",
+    "in_reply_to_user_id": "1993098158495395840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067587556112523730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfqnszVKWv91426 不会哒 4hm30mg以内基本都还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2067587556112523730",
+        "created_at": "2026-06-19T08:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067884945708925342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993098158495395840",
+              "start": 0,
+              "username": "kfqnszVKWv91426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067884945708925342",
+        "in_reply_to_user_id": "1993098158495395840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067587556112523730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfqnszVKWv91426 不会哒 4hm30mg以内基本都还好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993098158495395840",
+        "conversation_id": "2067587556112523730",
+        "created_at": "2026-06-18T12:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067587556112523730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067587556112523730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "使用4ho但是没有sitter不会剧烈变形吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中借用星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/drea💊mugtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 434,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 761
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T23:23:44.000Z",
+        "description": "泛性恋/💊\n我想追求幸福",
+        "id": "1993098158495395840",
+        "name": "air",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046692710976040960/G3P1mnT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 109,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "kfqnszVKWv91426",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2078020895931830639",
+    "created_at": "2026-07-17T13:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078113962416316579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733217384050384896",
+          "start": 0,
+          "username": "KK_Paqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078113962416316579",
+    "in_reply_to_user_id": "1733217384050384896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078020895931830639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK_Paqu 抱抱你……🥺🥺🥺呜呜我完全能理解你……我前几年状态很不好的时候听到这些话真的要碎掉了……完全没办法爱自己 甚至很极端地希望掏心掏肺爱别人换取别人爱自己……抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2043,
+        "media_key": "3_2078020887002144768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNac_KWa4AAYUEU.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2078020895931830639",
+        "created_at": "2026-07-17T13:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078113962416316579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733217384050384896",
+              "start": 0,
+              "username": "KK_Paqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078113962416316579",
+        "in_reply_to_user_id": "1733217384050384896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078020895931830639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_Paqu 抱抱你……🥺🥺🥺呜呜我完全能理解你……我前几年状态很不好的时候听到这些话真的要碎掉了……完全没办法爱自己 甚至很极端地希望掏心掏肺爱别人换取别人爱自己……抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078020887002144768"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2078020895931830639",
+        "created_at": "2026-07-17T07:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078020895931830639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5IyGZyiHoZ",
+              "end": 90,
+              "expanded_url": "https://x.com/KK_Paqu/status/2078020895931830639/photo/1",
+              "media_key": "3_2078020887002144768",
+              "start": 67,
+              "url": "https://t.co/5IyGZyiHoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078020895931830639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌每个人都让我靠自己\n我已经被遗弃很久了\n我靠自己已经越来越悲痛\n我需要帮助我需要精神上的支持\n我需要治疗\n我求求你们不要再说了 https://t.co/5IyGZyiHoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 487,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 936
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 221,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 878
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054102387904913408",
+        "3_2054102387896537088"
+      ]
+    },
+    "author_id": "2053435734737186816",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054102410818367875",
+    "created_at": "2026-05-12T07:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T08:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054102410818367875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rS34kY7u8c",
+          "end": 44,
+          "expanded_url": "https://x.com/xingstaro/status/2054102410818367875/photo/1",
+          "media_key": "3_2054102387904913408",
+          "start": 21,
+          "url": "https://t.co/rS34kY7u8c"
+        },
+        {
+          "display_url": "pic.x.com/rS34kY7u8c",
+          "end": 44,
+          "expanded_url": "https://x.com/xingstaro/status/2054102410818367875/photo/1",
+          "media_key": "3_2054102387896537088",
+          "start": 21,
+          "url": "https://t.co/rS34kY7u8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054102410818367875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本神经病就是这样\n\n健全人列表欣然接纳我 https://t.co/rS34kY7u8c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_2054102387904913408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGjPRtaoAAIvhP.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2038,
+        "media_key": "3_2054102387896537088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGjPRra0AARkh2.jpg",
+        "width": 1145
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054102387904913408",
+            "3_2054102387896537088"
+          ]
+        },
+        "author_id": "2053435734737186816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054102410818367875",
+        "created_at": "2026-05-12T07:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054102410818367875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rS34kY7u8c",
+              "end": 44,
+              "expanded_url": "https://x.com/xingstaro/status/2054102410818367875/photo/1",
+              "media_key": "3_2054102387904913408",
+              "start": 21,
+              "url": "https://t.co/rS34kY7u8c"
+            },
+            {
+              "display_url": "pic.x.com/rS34kY7u8c",
+              "end": 44,
+              "expanded_url": "https://x.com/xingstaro/status/2054102410818367875/photo/1",
+              "media_key": "3_2054102387896537088",
+              "start": 21,
+              "url": "https://t.co/rS34kY7u8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054102410818367875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本神经病就是这样\n\n健全人列表欣然接纳我 https://t.co/rS34kY7u8c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是一神秘食物的转世\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 141,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 94
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

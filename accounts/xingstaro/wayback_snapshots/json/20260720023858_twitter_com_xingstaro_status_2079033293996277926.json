@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2079030555652542501",
+    "created_at": "2026-07-20T02:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079033293996277926"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079033293996277926",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079030555652542501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "成年以后我什么都慢慢得到了，然而迟到的正义哪里还是正义，我现在很幸福然而为什么我对世界没有太多依恋，因为太晚了来得太晚了，迟到的饭端给了死人吃，想到过去就是痛心疾首，我不愿想，只是往前走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2079030555652542501",
+        "created_at": "2026-07-20T02:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079033293996277926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079033293996277926",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079030555652542501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成年以后我什么都慢慢得到了，然而迟到的正义哪里还是正义，我现在很幸福然而为什么我对世界没有太多依恋，因为太晚了来得太晚了，迟到的饭端给了死人吃，想到过去就是痛心疾首，我不愿想，只是往前走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2079030555652542501",
+        "created_at": "2026-07-20T02:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079030555652542501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/200x0x1x/status/2078811926533210141",
+              "start": 141,
+              "url": "https://t.co/XyXNFXR7iL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079030555652542501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078811926533210141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "极品之我的神秘妈：在我上学期间本就精神状态不佳的情况下，一边关心我说要开开心心一切有家人在一边下雨天不让我打车让我走回学校说要培养我独立性，一边说我朋友真好一边说我成绩下降所有人都一定会讨厌我大家只会喜欢成绩好的\n\n我那个时候太小太年轻，我们系统还没成长起来，还太脆弱太听风就是雨 https://t.co/XyXNFXR7iL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 505,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 984
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

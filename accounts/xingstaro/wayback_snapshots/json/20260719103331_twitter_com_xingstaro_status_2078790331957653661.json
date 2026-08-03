@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2078720449710821697",
+    "created_at": "2026-07-19T10:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078790331957653661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        },
+        {
+          "end": 31,
+          "id": "1505767450385690625",
+          "start": 15,
+          "username": "Alistai33955292"
+        },
+        {
+          "end": 46,
+          "id": "1980319114720841728",
+          "start": 32,
+          "username": "Melv1nZ2_2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078790331957653661",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078720449710821697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 @Alistai33955292 @Melv1nZ2_2004 好恶心这个建人。。。。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078720437455052801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkZOW3aYAEUsL9.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078720437497057280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkZOXBbUAA8uuu.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2078720449710821697",
+        "created_at": "2026-07-19T10:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078790331957653661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            },
+            {
+              "end": 31,
+              "id": "1505767450385690625",
+              "start": 15,
+              "username": "Alistai33955292"
+            },
+            {
+              "end": 46,
+              "id": "1980319114720841728",
+              "start": 32,
+              "username": "Melv1nZ2_2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078790331957653661",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078720449710821697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 @Alistai33955292 @Melv1nZ2_2004 好恶心这个建人。。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078720437455052801",
+            "3_2078720437497057280"
+          ]
+        },
+        "author_id": "1244543552652054528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078720449710821697",
+        "created_at": "2026-07-19T05:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078720449710821697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980319114720841728",
+              "start": 0,
+              "username": "Melv1nZ2_2004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtDa6gv8aR",
+              "end": 166,
+              "expanded_url": "https://x.com/Greenfish_111/status/2078720449710821697/photo/1",
+              "media_key": "3_2078720437455052801",
+              "start": 143,
+              "url": "https://t.co/QtDa6gv8aR"
+            },
+            {
+              "display_url": "pic.x.com/QtDa6gv8aR",
+              "end": 166,
+              "expanded_url": "https://x.com/Greenfish_111/status/2078720449710821697/photo/1",
+              "media_key": "3_2078720437497057280",
+              "start": 143,
+              "url": "https://t.co/QtDa6gv8aR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078720449710821697",
+        "in_reply_to_user_id": "1980319114720841728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 14,
+                "id": "1980319114720841728",
+                "start": 0,
+                "username": "Melv1nZ2_2004"
+              }
+            ]
+          },
+          "text": "@Melv1nZ2_2004 操你全家我不知道你什么意思。不回我消息你是死了吗\n你邀请去你家玩和o 邀请了几次了，所以我昨天去了，这还是我第一次跟推友面基，o了普瑞sns喝了酒抽了烟我确实挺开心的\no着o着 你把我的初夜法走了 \n虽然记不清具体了反正当时我知情且同意所以我也就不说了。\n但是你居然操着我还跟别人发消息 问你在跟谁发消息 然后给我发了这些截图。我操你全家你干嘛要跟别人发消息分享说我怎么怎么样 去死\n而且你为什么不回我消息？\n第二天现在不回消息，你什么意思？\n我不知道你是来骗炮的还是干什么的，为什么不回我消息。你是骗炮的吗，额还有别的女推也是以这样方式被你私信的吗👁️👁️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 24777,
+          "like_count": 149,
+          "quote_count": 15,
+          "reply_count": 70,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "@Melv1nZ2_2004 操你全家我不知道你什么意思。不回我消息你是死了吗\n你邀请去你家玩和o 邀请了几次了，所以我昨天去了，这还是我第一次跟推友面基，o了普瑞sns喝了酒抽了烟我确实挺开心的\no着o着 你把我的初夜法走了 \n虽然记不清具体了反正当时我知情且同意所以我也就不说了。 https://t.co/QtDa6gv8aR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 500,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中干裂\nbpd/日常号@flyfrog_222/我的画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "flyfrog_222"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "woyaosleep444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3spiAO"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2069292400196125097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5267,
+          "following_count": 568,
+          "like_count": 13580,
+          "listed_count": 8,
+          "media_count": 1099,
+          "tweet_count": 14718
+        },
+        "url": "https://t.co/V2GB3spiAO",
+        "username": "Greenfish_111",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "餐券丨od丨全性别友好丨只fo同类健人fo我拉黑丨希望爱我的我爱的人永远幸福/终生@youciAishiuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "youciAishiuu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/81DYKJ3Y8p"
+              }
+            ]
+          }
+        },
+        "id": "1505767450385690625",
+        "location": "天国",
+        "name": "🌰",
+        "pinned_tweet_id": "2066108367043772842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045141613958340608/DmfkJuqE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 646,
+          "like_count": 2507,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3302
+        },
+        "url": "https://t.co/81DYKJ3Y8p",
+        "username": "Alistai33955292",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T17:04:19.000Z",
+        "description": "戒o大成功/戒割大失败\n生理性别♂",
+        "id": "1980319114720841728",
+        "name": "失血过多",
+        "pinned_tweet_id": "1980334091036975176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075512737950756864/fMMee98D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 319,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 585
+        },
+        "url": "",
+        "username": "Melv1nZ2_2004",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2079229363414053231",
+    "created_at": "2026-07-20T15:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079230317752385722"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079230317752385722",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079229363414053231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我非常不喜欢我的性特征 非常 我超级讨厌性特征 虽然我会拍涩图我有黄推号我也喜欢给朋友发送涩图让大家夸我 但我自己平心而论是很不喜欢自己身上有性特征的 很丑 我觉得脂肪很丑 我完全没有义务意愿为生育储存能量脑子你听得懂我说话不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2079229363414053231",
+        "created_at": "2026-07-20T15:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079230317752385722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079230317752385722",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079229363414053231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我非常不喜欢我的性特征 非常 我超级讨厌性特征 虽然我会拍涩图我有黄推号我也喜欢给朋友发送涩图让大家夸我 但我自己平心而论是很不喜欢自己身上有性特征的 很丑 我觉得脂肪很丑 我完全没有义务意愿为生育储存能量脑子你听得懂我说话不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2079229363414053231",
+        "created_at": "2026-07-20T15:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079229363414053231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079229363414053231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地球生物基因就是极度容易受到繁衍激素支配 繁衍的本能写在代码里 就算你开智了不想繁衍了 你的身体会保留对能量、欲望、快感的原始追求\n这个也都无所谓了 性欲随意吧 高就高大不了冲成脑瘫 不太喜欢被食欲支配因为我真的很不喜欢看见自己肿成一头猪 最恶心的就是食欲的上涨\n感觉做什么性别都好悲哀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 509,
+          "like_count": 1532,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 995
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055274161468240095",
+    "created_at": "2026-05-15T13:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055275203513680165"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055275203513680165",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055274161468240095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草wait？？我上l17 bio了？？！我草 。。满世界乱爬嘚瑟乱跑中。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055274161468240095",
+        "created_at": "2026-05-15T13:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055275203513680165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055275203513680165",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055274161468240095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草wait？？我上l17 bio了？？！我草 。。满世界乱爬嘚瑟乱跑中。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055274161468240095",
+        "created_at": "2026-05-15T13:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055274161468240095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/jiuyouforwhite2/status/2055250672657064041",
+              "start": 20,
+              "url": "https://t.co/zs66wvrBTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055274161468240095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055250672657064041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "little17（为什么我越叫越怪了） https://t.co/zs66wvrBTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 210,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 247
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

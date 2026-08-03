@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2077443737748385904",
+    "created_at": "2026-07-15T17:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T18:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077443737748385904"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077443737748385904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲朋好友找不到我的概率有50%是我在手冲清醒的非工作时间里我在手冲的概率高到了一个离谱的程度😋😋😋以至于亲友找我的时候我会经常跟大家说我在手冲待会理你😋😋😋……至于家人打电话过来就是一个挂断……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2077443737748385904",
+        "created_at": "2026-07-15T17:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077443737748385904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077443737748385904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲朋好友找不到我的概率有50%是我在手冲清醒的非工作时间里我在手冲的概率高到了一个离谱的程度😋😋😋以至于亲友找我的时候我会经常跟大家说我在手冲待会理你😋😋😋……至于家人打电话过来就是一个挂断……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 478,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 897
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

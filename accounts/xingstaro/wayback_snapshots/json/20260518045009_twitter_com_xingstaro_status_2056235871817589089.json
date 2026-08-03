@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056235871817589089",
+    "created_at": "2026-05-18T04:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056235871817589089"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056235871817589089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是中推药圈欣赏思诺思的首批人，那是右美风靡一时盛行无比、pr80还在地上玩泥巴的时代，内网有网友请我做毕业论文问卷，让我回答对od的看法和经历\n我说我吃思诺思，对方：？这是啥\n\n当时居然没有多少人意识到思诺思具备娱乐潜力，恶评更是数不胜数，直到右美倒台，思诺思才出现在大众视野"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T04:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056235871817589089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056235871817589089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是中推药圈欣赏思诺思的首批人，那是右美风靡一时盛行无比、pr80还在地上玩泥巴的时代，内网有网友请我做毕业论文问卷，让我回答对od的看法和经历\n我说我吃思诺思，对方：？这是啥\n\n当时居然没有多少人意识到思诺思具备娱乐潜力，恶评更是数不胜数，直到右美倒台，思诺思才出现在大众视野"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 274,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 371
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

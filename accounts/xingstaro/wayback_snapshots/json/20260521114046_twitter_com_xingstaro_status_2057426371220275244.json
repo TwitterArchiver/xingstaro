@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057425700161028163",
+    "created_at": "2026-05-21T11:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057426371220275244"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057426371220275244",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057425700161028163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小时候我还不能理解为什么 大家脱外套 要把书包给同行的小伙伴拿 我就一边拎着大家的书包一边把自己的外套脱掉\n我不能理解为什么人与人有互助这个环节 我觉得一个人就能搞定的事情不需要麻烦第二个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057425700161028163",
+        "created_at": "2026-05-21T11:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057426371220275244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057426371220275244",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057425700161028163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小时候我还不能理解为什么 大家脱外套 要把书包给同行的小伙伴拿 我就一边拎着大家的书包一边把自己的外套脱掉\n我不能理解为什么人与人有互助这个环节 我觉得一个人就能搞定的事情不需要麻烦第二个人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057425700161028163",
+        "created_at": "2026-05-21T11:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057425700161028163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057425700161028163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对我阴阳怪气，不如直接骂我，因为阴阳怪气我听不懂，我是真的听不懂，如果我没有及时更新互联网热门名词，我就听不懂\n我小学听不懂“劳驾”这个词，以为是疲劳驾驶。。。。。很长一段时间我不懂但我不敢问为什么excuse me＝疲劳驾驶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 368,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 620
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

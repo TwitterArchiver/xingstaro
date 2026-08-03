@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053662259407163392"
+      ]
+    },
+    "author_id": "2053435734737186816",
+    "conversation_id": "2053662273646776387",
+    "created_at": "2026-05-11T02:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T03:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053662273646776387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QuykmB3u9d",
+          "end": 146,
+          "expanded_url": "https://x.com/xingstaro/status/2053662273646776387/photo/1",
+          "media_key": "3_2053662259407163392",
+          "start": 123,
+          "url": "https://t.co/QuykmB3u9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053662273646776387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "传出去吧🦋也一样烂\n\n我现在觉得最搞笑的是，居然我的QQ空间是最安全的？？无论我发drug还是sf全都平平安安只要我锁空间了？？又因为我不加任何群，列表全是我信任的人，也没人瞎几把没事举报我\n\n行吧难道最终归途真的是私密性好传播性低的内部社群吗 https://t.co/QuykmB3u9d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2053662259407163392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAS8bSXEAAWa_S.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053662259407163392"
+          ]
+        },
+        "author_id": "2053435734737186816",
+        "conversation_id": "2053662273646776387",
+        "created_at": "2026-05-11T02:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053662273646776387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QuykmB3u9d",
+              "end": 146,
+              "expanded_url": "https://x.com/xingstaro/status/2053662273646776387/photo/1",
+              "media_key": "3_2053662259407163392",
+              "start": 123,
+              "url": "https://t.co/QuykmB3u9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053662273646776387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "传出去吧🦋也一样烂\n\n我现在觉得最搞笑的是，居然我的QQ空间是最安全的？？无论我发drug还是sf全都平平安安只要我锁空间了？？又因为我不加任何群，列表全是我信任的人，也没人瞎几把没事举报我\n\n行吧难道最终归途真的是私密性好传播性低的内部社群吗 https://t.co/QuykmB3u9d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是一神秘食物的转世\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星永不打烊",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 81,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

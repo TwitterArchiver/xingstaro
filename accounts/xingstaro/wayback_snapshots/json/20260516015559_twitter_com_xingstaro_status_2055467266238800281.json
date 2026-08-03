@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055467266238800281",
+    "created_at": "2026-05-16T01:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055467266238800281"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055467266238800281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我睡了一个很完美的觉，昨晚很早昏睡过去，今天一醒来感觉全身暖洋洋的，身体也不储水了，刚到办公室遇到同事，对方说对方也是。。。应该是我们整个办公室睡眠质量最好的一夜。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055467266238800281",
+        "created_at": "2026-05-16T01:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055467266238800281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055467266238800281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我睡了一个很完美的觉，昨晚很早昏睡过去，今天一醒来感觉全身暖洋洋的，身体也不储水了，刚到办公室遇到同事，对方说对方也是。。。应该是我们整个办公室睡眠质量最好的一夜。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 216,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 270
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

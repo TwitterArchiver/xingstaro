@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056235871817589089",
+    "created_at": "2026-05-18T07:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056277144268066944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1512261382590410753",
+          "start": 0,
+          "username": "hongdounuomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056277144268066944",
+    "in_reply_to_user_id": "1512261382590410753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056272013099188352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongdounuomi 是的，非常容易耐药，还很吃体质天赋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T07:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056277144268066944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512261382590410753",
+              "start": 0,
+              "username": "hongdounuomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056277144268066944",
+        "in_reply_to_user_id": "1512261382590410753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056272013099188352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdounuomi 是的，非常容易耐药，还很吃体质天赋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512261382590410753",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T07:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056272013099188352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056272013099188352",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 可能是z类药都和体质有较大的关系，有人医用剂量就能有绮丽的幻觉，有人3t甚至4t也是无感。而且短半衰期带给第二天清爽的同时，也带来了极易耐药的特质。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 281,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 384
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:49:59.000Z",
+        "description": "仅个人记录\nsns世界第一\nBFF：@fortearsidie\n我们一起唱歌，飞到天边最远的星星上去。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "fortearsidie"
+              }
+            ]
+          }
+        },
+        "id": "1512261382590410753",
+        "name": "红豆和糯米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512261645225054233/BmRzIjxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 73
+        },
+        "username": "hongdounuomi",
+        "verified": false
+      }
+    ]
+  }
+}

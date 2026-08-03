@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054096181689720994",
+    "created_at": "2026-05-12T11:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054156239505109051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "747213446911922176",
+          "start": 0,
+          "username": "ura_samuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054156239505109051",
+    "in_reply_to_user_id": "747213446911922176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054155050734473481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ura_samuko ai回信了，但是没有任何操作，据说时间内不能二次申诉，我决定过几天接着试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054096181689720994",
+        "created_at": "2026-05-12T11:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054156239505109051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "747213446911922176",
+              "start": 0,
+              "username": "ura_samuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054156239505109051",
+        "in_reply_to_user_id": "747213446911922176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054155050734473481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ura_samuko ai回信了，但是没有任何操作，据说时间内不能二次申诉，我决定过几天接着试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "747213446911922176",
+        "conversation_id": "2054096181689720994",
+        "created_at": "2026-05-12T11:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054155050734473481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054155050734473481",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054096181689720994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 大概要一两周左右"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 157,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 118
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-26T23:42:23.000Z",
+        "description": "雑多な\n絵を描く。本垢に @TamikoTomorika \n苦楽無凡、言葉遣い荒く。\n自分わ抱きしめたい(笑)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "TamikoTomorika"
+              }
+            ]
+          }
+        },
+        "id": "747213446911922176",
+        "name": "さむ",
+        "pinned_tweet_id": "1985487275946623149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985460011695554567/-2Ush8Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 122,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 74
+        },
+        "username": "ura_samuko",
+        "verified": false
+      }
+    ]
+  }
+}

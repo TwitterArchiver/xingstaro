@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2067096998504006045",
+    "created_at": "2026-06-19T06:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067849958934610154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041205107920908288",
+          "start": 0,
+          "username": "yosfl907yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067849958934610154",
+    "in_reply_to_user_id": "2041205107920908288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067168789536649357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yosfl907yu 今天又来了QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2067096998504006045",
+        "created_at": "2026-06-19T06:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067849958934610154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041205107920908288",
+              "start": 0,
+              "username": "yosfl907yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067849958934610154",
+        "in_reply_to_user_id": "2041205107920908288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067168789536649357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yosfl907yu 今天又来了QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041205107920908288",
+        "conversation_id": "2067096998504006045",
+        "created_at": "2026-06-17T08:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067168789536649357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067168789536649357",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067096998504006045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 哇哇哇，是星星，希望早些成功申诉呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中借用星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/drea💊mugtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 416,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 756
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T17:24:22.000Z",
+        "description": "你好呀，你可以叫我小雨也可以叫我梦断，平时会发一些碎碎念，身体和精神上都有些问题，但是在积极生活呢，欢迎大家和我互fo喔",
+        "id": "2041205107920908288",
+        "name": "yosfl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062259928111394816/4ng51Kt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 37,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "yosfl907yu",
+        "verified": false
+      }
+    ]
+  }
+}

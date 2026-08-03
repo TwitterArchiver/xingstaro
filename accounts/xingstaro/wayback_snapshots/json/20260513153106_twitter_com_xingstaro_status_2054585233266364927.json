@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054351971537350658",
+    "created_at": "2026-05-13T15:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054585233266364927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738187540912607232",
+          "start": 0,
+          "username": "uu_salvation777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054585233266364927",
+    "in_reply_to_user_id": "1738187540912607232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054351971537350658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uu_salvation777 我也是会留着笔纪念！好好玩ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 949,
+        "media_key": "3_2054351762782670848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKGCzhb0AAyx6o.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054351971537350658",
+        "created_at": "2026-05-13T15:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054585233266364927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738187540912607232",
+              "start": 0,
+              "username": "uu_salvation777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054585233266364927",
+        "in_reply_to_user_id": "1738187540912607232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054351971537350658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uu_salvation777 我也是会留着笔纪念！好好玩ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054351762782670848"
+          ]
+        },
+        "author_id": "1738187540912607232",
+        "conversation_id": "2054351971537350658",
+        "created_at": "2026-05-13T00:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054351971537350658"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "Mounjaro"
+            },
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "tirzepatide"
+            },
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "edtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XUYFkXuYNh",
+              "end": 93,
+              "expanded_url": "https://x.com/uu_salvation777/status/2054351971537350658/photo/1",
+              "media_key": "3_2054351762782670848",
+              "start": 70,
+              "url": "https://t.co/XUYFkXuYNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054351971537350658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的第一支注射完的笔！🥰🥰\n2.5mg的 尝试打golden dose但放弃了 #Mounjaro #tirzepatide #edtwt https://t.co/XUYFkXuYNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 203,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 200
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T13:19:47.000Z",
+        "description": "17岁小女孩 ［EN/简中 ］「抑郁/cptsd/贪食症/adhd」新教徒吧 首席teenager/保持一颗银子般的心 直女 前世@linny83215 ifw \n#shedtwt ✝️emo girl💙替西泊肽/tirzepatide/Mounjaro使用中💙hardcore享受者 gw54kg🚪好友位77",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "shedtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "linny83215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/jRKM0Ow0ap"
+              }
+            ]
+          }
+        },
+        "id": "1738187540912607232",
+        "location": "紫魔爪",
+        "name": "⁺‧ཐི⋆♱uuuUu7🇺🇸♱⋆ཋྀ‧⁺",
+        "pinned_tweet_id": "2051090194808598932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048453870284832768/rxJGoiYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 111,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1627
+        },
+        "url": "https://t.co/jRKM0Ow0ap",
+        "username": "uu_salvation777",
+        "verified": false
+      }
+    ]
+  }
+}

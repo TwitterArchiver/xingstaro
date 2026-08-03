@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057393486266319275",
+    "created_at": "2026-05-21T12:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057443643934617888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738187540912607232",
+          "start": 0,
+          "username": "uu_salvation777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057443643934617888",
+    "in_reply_to_user_id": "1738187540912607232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057393486266319275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uu_salvation777 我的目标也是差不多QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057393486266319275",
+        "created_at": "2026-05-21T12:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057443643934617888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738187540912607232",
+              "start": 0,
+              "username": "uu_salvation777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057443643934617888",
+        "in_reply_to_user_id": "1738187540912607232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057393486266319275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uu_salvation777 我的目标也是差不多QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738187540912607232",
+        "conversation_id": "2057393486266319275",
+        "created_at": "2026-05-21T09:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057393486266319275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057393486266319275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在真的是一个胖毁了的状态 我需要先瘦到55kg 再割双眼皮 再整鼻子 再文身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 369,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 638
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T13:19:47.000Z",
+        "description": "想吸毒想润/longer hair thinner body/明年死妈高考/08直女/抑郁cptsd贪食症adhd😂/i am on💙#Mounjaro💙/不会说英文中文/#techno #shedtwt #lexapro #mia/165cm gw54kg/新教徒 等待baptize 希望所有人都过得开心",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 76,
+                "start": 67,
+                "tag": "Mounjaro"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "techno"
+              },
+              {
+                "end": 102,
+                "start": 94,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "tag": "lexapro"
+              },
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "mia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/jRKM0Ow0ap"
+              }
+            ]
+          }
+        },
+        "id": "1738187540912607232",
+        "location": "紫魔爪",
+        "name": "⁺‧ཐི⋆♱uuuUu7🇺🇸♱⋆ཋྀ‧⁺",
+        "pinned_tweet_id": "2057368613812879423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048453870284832768/rxJGoiYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 130,
+          "like_count": 2030,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/jRKM0Ow0ap",
+        "username": "uu_salvation777",
+        "verified": false
+      }
+    ]
+  }
+}

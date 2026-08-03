@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056322753977024777",
+    "created_at": "2026-05-18T13:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056361639948284259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049877364763676672",
+          "start": 0,
+          "username": "4_hui916768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056361639948284259",
+    "in_reply_to_user_id": "2049877364763676672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056322753977024777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4_hui916768 我草你5.0了QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 489,
+        "media_key": "3_2056322751838007297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImGpd7bsAEhmoc.jpg",
+        "width": 1051
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056322753977024777",
+        "created_at": "2026-05-18T13:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056361639948284259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049877364763676672",
+              "start": 0,
+              "username": "4_hui916768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056361639948284259",
+        "in_reply_to_user_id": "2049877364763676672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056322753977024777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4_hui916768 我草你5.0了QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056322751838007297"
+          ]
+        },
+        "author_id": "2049877364763676672",
+        "conversation_id": "2056322753977024777",
+        "created_at": "2026-05-18T10:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056322753977024777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gpMfXU25F",
+              "end": 92,
+              "expanded_url": "https://x.com/4_hui916768/status/2056322753977024777/photo/1",
+              "media_key": "3_2056322751838007297",
+              "start": 69,
+              "url": "https://t.co/8gpMfXU25F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056322753977024777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是遺灰，請助力我尋回互關\n4.0也炸了，連發個疤也要封我號真無敵了\n以後發敏感圖還是發在ig吧，有需要可以追蹤一下，看到相同成分才會過 https://t.co/8gpMfXU25F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 297,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 413
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T15:44:02.000Z",
+        "description": "馬斯克你無敵了",
+        "id": "2049877364763676672",
+        "name": "遺灰5.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050163297123725312/Nrt1FqWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 277,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 9
+        },
+        "username": "4_hui916768",
+        "verified": false
+      }
+    ]
+  }
+}

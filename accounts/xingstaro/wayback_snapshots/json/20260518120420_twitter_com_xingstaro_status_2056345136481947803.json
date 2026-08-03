@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056235871817589089",
+    "created_at": "2026-05-18T12:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056345136481947803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054808444142755840",
+          "start": 0,
+          "username": "yinghuo1529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056345136481947803",
+    "in_reply_to_user_id": "2054808444142755840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056315720380903910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinghuo1529 某种程度上 被列管保住了这些精品神药的生命力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T12:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056345136481947803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054808444142755840",
+              "start": 0,
+              "username": "yinghuo1529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056345136481947803",
+        "in_reply_to_user_id": "2054808444142755840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056315720380903910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinghuo1529 某种程度上 被列管保住了这些精品神药的生命力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054808444142755840",
+        "conversation_id": "2056235871817589089",
+        "created_at": "2026-05-18T10:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056315720380903910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056315720380903910",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro sns当时比起优美有个显著的确定 精二药品 这波不是sns走进大众视野 是优美自动走开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 292,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 405
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T06:18:34.000Z",
+        "description": "你好 我是荧惑 如果你感到眼熟 那就是我——\n——\n顺直男/双相/od史/血图猎奇爱好者/",
+        "id": "2054808444142755840",
+        "name": "荧惑",
+        "pinned_tweet_id": "2054816042493546623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054809551443304448/luPjskrT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 141,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 54
+        },
+        "username": "yinghuo1529",
+        "verified": false
+      }
+    ]
+  }
+}

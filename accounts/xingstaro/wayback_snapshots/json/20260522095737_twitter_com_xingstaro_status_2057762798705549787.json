@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057762798705549787",
+    "created_at": "2026-05-22T09:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057762798705549787"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057762798705549787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一边剧烈厌食一边饿得胃疼 好难吃 今天的一切都好难吃 牛肉嚼两口差点吐出来 只能吃点甜的味道单一的 奶茶也喝不下去\n我没打替西啊我打替西也不这样啊 我哪根神经错线了呜呜呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057762798705549787",
+        "created_at": "2026-05-22T09:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057762798705549787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057762798705549787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一边剧烈厌食一边饿得胃疼 好难吃 今天的一切都好难吃 牛肉嚼两口差点吐出来 只能吃点甜的味道单一的 奶茶也喝不下去\n我没打替西啊我打替西也不这样啊 我哪根神经错线了呜呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 我回得慢可以评论区戳我\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 378,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 675
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

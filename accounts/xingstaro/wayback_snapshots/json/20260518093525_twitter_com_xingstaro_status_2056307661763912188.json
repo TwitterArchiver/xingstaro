@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056303196520567078",
+    "created_at": "2026-05-18T09:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056307661763912188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916779760824557568",
+          "start": 0,
+          "username": "HysteriaAndLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056307661763912188",
+    "in_reply_to_user_id": "1916779760824557568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056303196520567078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HysteriaAndLove 你的bio我喜欢 有品味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056303196520567078",
+        "created_at": "2026-05-18T09:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056307661763912188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916779760824557568",
+              "start": 0,
+              "username": "HysteriaAndLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056307661763912188",
+        "in_reply_to_user_id": "1916779760824557568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056303196520567078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HysteriaAndLove 你的bio我喜欢 有品味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916779760824557568",
+        "conversation_id": "2056303196520567078",
+        "created_at": "2026-05-18T09:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056303196520567078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingstaro/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xingstaro/status/2056235871817589089",
+              "start": 5,
+              "url": "https://t.co/gappH84RnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056303196520567078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056235871817589089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懂你意思 https://t.co/gappH84RnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 288,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 393
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T09:02:11.000Z",
+        "description": "重度躁狂 反社会人格障碍 纯粹后结构主义意识游离体 撒旦教徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "churchofsatan.com",
+                "end": 23,
+                "expanded_url": "http://www.churchofsatan.com/",
+                "start": 0,
+                "url": "https://t.co/mUEB4EMmuu"
+              }
+            ]
+          }
+        },
+        "id": "1916779760824557568",
+        "location": "Sacrificial Altar",
+        "name": "⛧Nana⛧",
+        "pinned_tweet_id": "2049050637820936616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053658138226876416/15ER7LAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 138,
+          "like_count": 3136,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3729
+        },
+        "url": "https://t.co/mUEB4EMmuu",
+        "username": "HysteriaAndLove",
+        "verified": false
+      }
+    ]
+  }
+}

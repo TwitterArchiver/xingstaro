@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057147151118139626",
+    "created_at": "2026-05-20T17:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057147151118139626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ngxr920111/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ngxr920111/status/2048914430474490316",
+          "start": 14,
+          "url": "https://t.co/9EEAjdHtCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057147151118139626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048914430474490316",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好漂亮的穿刺🥺🥺🥺距离欣赏 https://t.co/9EEAjdHtCX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048914228204253184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG80ootbsAAI6UN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2048914228220977152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG80ooxa4AAQaYJ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2048914228200005633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG80oosa4AEBjr7.jpg",
+        "width": 3072
+      },
+      {
+        "height": 580,
+        "media_key": "3_2048914228204150784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG80ootaIAAOe1V.jpg",
+        "width": 435
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057147151118139626",
+        "created_at": "2026-05-20T17:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057147151118139626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ngxr920111/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ngxr920111/status/2048914430474490316",
+              "start": 14,
+              "url": "https://t.co/9EEAjdHtCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057147151118139626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048914430474490316",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好漂亮的穿刺🥺🥺🥺距离欣赏 https://t.co/9EEAjdHtCX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048914228204253184",
+            "3_2048914228220977152",
+            "3_2048914228200005633",
+            "3_2048914228204150784"
+          ]
+        },
+        "author_id": "2045162232208658433",
+        "conversation_id": "2048914430474490316",
+        "created_at": "2026-04-27T23:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048914430474490316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "半绿"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "女高"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTjFaUec4d",
+              "end": 176,
+              "expanded_url": "https://x.com/q753581718/status/2048914430474490316/photo/1",
+              "media_key": "3_2048914228204253184",
+              "start": 153,
+              "url": "https://t.co/jTjFaUec4d"
+            },
+            {
+              "display_url": "pic.x.com/jTjFaUec4d",
+              "end": 176,
+              "expanded_url": "https://x.com/q753581718/status/2048914430474490316/photo/1",
+              "media_key": "3_2048914228220977152",
+              "start": 153,
+              "url": "https://t.co/jTjFaUec4d"
+            },
+            {
+              "display_url": "pic.x.com/jTjFaUec4d",
+              "end": 176,
+              "expanded_url": "https://x.com/q753581718/status/2048914430474490316/photo/1",
+              "media_key": "3_2048914228200005633",
+              "start": 153,
+              "url": "https://t.co/jTjFaUec4d"
+            },
+            {
+              "display_url": "pic.x.com/jTjFaUec4d",
+              "end": 176,
+              "expanded_url": "https://x.com/q753581718/status/2048914430474490316/photo/1",
+              "media_key": "3_2048914228204150784",
+              "start": 153,
+              "url": "https://t.co/jTjFaUec4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048914430474490316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5227,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我是苒/小苒🔝上一世我因为忘记了邮箱导致惨败\n坐标山东｜160/89\n割/o/穿孔/🚬喜欢我的可以多找我聊天哦\n我是抖m喜欢穿孔和捆绑\n我情绪价值很足的！\n退学家里蹲 因为没有钱养猫所以当一下门妹\n可验证🥺喜欢我的快来哇😋💕求过门呀ww女宝快来找我互fo互转喵\n#爸爸活 #门槛妹 #半绿 #女高 #反差 https://t.co/jTjFaUec4d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 339,
+          "like_count": 976,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 567
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T15:27:54.000Z",
+        "description": "苒/小苒 上一世我忘记了邮箱密码 sub 恋痛 药物依赖/自毁/自伤/穿孔/二型双相/焦虑/PTSD 想和萌妹子互fo扩列",
+        "id": "2045162232208658433",
+        "location": "天国",
+        "name": "命比愈美苦（寻回互fo版）",
+        "pinned_tweet_id": "2048914430474490316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045166277371846657/BpwTgPXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 97,
+          "like_count": 20,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 90
+        },
+        "username": "ngxr920111",
+        "verified": false
+      }
+    ]
+  }
+}

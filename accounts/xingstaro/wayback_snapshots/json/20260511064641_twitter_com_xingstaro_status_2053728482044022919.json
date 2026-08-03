@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2053724048903823424",
+    "created_at": "2026-05-11T06:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053728482044022919"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053728482044022919",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053724048903823424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然隔壁宿舍开门声/闹钟声/手环震动全部都能把我吓裂就对了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2053724048903823424",
+        "created_at": "2026-05-11T06:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053728482044022919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053728482044022919",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053724048903823424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然隔壁宿舍开门声/闹钟声/手环震动全部都能把我吓裂就对了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2053724048903823424",
+        "created_at": "2026-05-11T06:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053724048903823424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053724048903823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝被宿友的指甲敲击屏幕声吓晕了，直接一个感官过载大爆发心跳剧烈，午睡美美泡汤QAQ还变成煎熬……\n明天还是带震动手表过来戴耳塞睡觉吧QAQ\n可惜了浪费了我的阿普唑仑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是一神秘食物的转世\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星永不打烊",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 94,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 72
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056369952010183017",
+    "created_at": "2026-05-18T14:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056386323783852081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682558288247021568",
+          "start": 0,
+          "username": "miumiu_14_dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056386323783852081",
+    "in_reply_to_user_id": "1682558288247021568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056385514631225381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miumiu_14_dd 好 等待这颗十分刻薄的星星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056369952010183017",
+        "created_at": "2026-05-18T14:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056386323783852081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682558288247021568",
+              "start": 0,
+              "username": "miumiu_14_dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056386323783852081",
+        "in_reply_to_user_id": "1682558288247021568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056385514631225381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumiu_14_dd 好 等待这颗十分刻薄的星星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682558288247021568",
+        "conversation_id": "2056369952010183017",
+        "created_at": "2026-05-18T14:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056385514631225381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056385514631225381",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056369952010183017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 蹲锐评（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 297,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 423
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:09:28.000Z",
+        "description": "比较人机，习得感情中  ⟡ she/they  ⟡ BPD／CPTSD／OSDD-1a ⟡ 友跨 ⟡ Feminist ⟡ Matriarchy ⟡ 有爱人 ⟡ 不登校 ⟡ 百合爱好者 ⟡ \n——⟡⋆˙欢迎互fo⟡⋆˙——",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miumiu_14_dd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miumiu_14_dd",
+                "start": 0,
+                "url": "https://t.co/0roPVau7Sn"
+              }
+            ]
+          }
+        },
+        "id": "1682558288247021568",
+        "location": "因特奈特",
+        "name": "透明岚",
+        "pinned_tweet_id": "2042677538519158935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056386176723107841/a2G7mM5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 517,
+          "like_count": 3703,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/0roPVau7Sn",
+        "username": "miumiu_14_dd",
+        "verified": false
+      }
+    ]
+  }
+}

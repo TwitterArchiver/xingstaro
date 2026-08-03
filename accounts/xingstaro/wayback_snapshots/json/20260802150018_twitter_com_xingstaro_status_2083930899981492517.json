@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2083930191873884298",
+    "created_at": "2026-08-02T15:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083930899981492517"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083930899981492517",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083930191873884298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明明大家什么也没做 世界没做错什么 你们没做错什么 我们当然也没有 凭什么你们就要居高临下地说我们有病？鸟撞笼而死 你们就说鸟儿有病 可是为什么要把鸟限制在笼子里？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2083930191873884298",
+        "created_at": "2026-08-02T15:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083930899981492517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083930899981492517",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083930191873884298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明大家什么也没做 世界没做错什么 你们没做错什么 我们当然也没有 凭什么你们就要居高临下地说我们有病？鸟撞笼而死 你们就说鸟儿有病 可是为什么要把鸟限制在笼子里？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2083930191873884298",
+        "created_at": "2026-08-02T14:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083930191873884298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083930191873884298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说“你可以别跟我说话了吗，你一直嗡嗡嗡我的脑子神经在痛”，我妈叹气“你又怕光又怕声音，要去看医生”\n\n可是明明你闭嘴就好了呀？关灯就好了呀？明明世界变黑变安静我马上就舒服了，凭什么说我讨厌光线声音是有病，如果这样说的话我也觉得世界有病世界该去看医生？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 498,
+          "like_count": 1563,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1029
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

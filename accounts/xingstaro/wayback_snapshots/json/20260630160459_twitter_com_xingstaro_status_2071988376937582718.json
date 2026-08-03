@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2071987827999719773",
+    "created_at": "2026-06-30T16:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071988376937582718"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071988376937582718",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071987827999719773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个世界太没意思了 没有什么成就感 什么对我来说都没意思 一切的一切都让我觉得乏味 像急头白脸吃完一顿垃圾食品 吃了个恶心寂寞一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2071987827999719773",
+        "created_at": "2026-06-30T16:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071988376937582718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071988376937582718",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071987827999719773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个世界太没意思了 没有什么成就感 什么对我来说都没意思 一切的一切都让我觉得乏味 像急头白脸吃完一顿垃圾食品 吃了个恶心寂寞一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2071987827999719773",
+        "created_at": "2026-06-30T16:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071987827999719773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071987827999719773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是学习好玩，吸毒太无聊了，手冲也太无聊了，即使是在快感最强烈的时候也只是觉得乏味，建立在虚无上的快感落不到实处就是会让我精神冒出空虚感，太没意思了，唉这个世界简直是太无聊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 440,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 804
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

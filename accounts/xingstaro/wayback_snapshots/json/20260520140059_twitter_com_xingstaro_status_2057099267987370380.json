@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056544313463669069",
+    "created_at": "2026-05-20T14:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057099267987370380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675878602930524163",
+          "start": 0,
+          "username": "indigo_skynight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057099267987370380",
+    "in_reply_to_user_id": "1675878602930524163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057093652363850037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@indigo_skynight 我爱小雾雨ᰔᩚ/•᷅•᷄\\୭甜食万岁喵！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056544313463669069",
+        "created_at": "2026-05-20T14:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057099267987370380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675878602930524163",
+              "start": 0,
+              "username": "indigo_skynight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057099267987370380",
+        "in_reply_to_user_id": "1675878602930524163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057093652363850037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@indigo_skynight 我爱小雾雨ᰔᩚ/•᷅•᷄\\୭甜食万岁喵！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675878602930524163",
+        "conversation_id": "2056544313463669069",
+        "created_at": "2026-05-20T13:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057093652363850037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057093652363850037",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056544993637240864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 糯米糖纸和星星糖饼都甜甜的😋明明非常有品 因为我也爱吃甜的嘻嘻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 338,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 551
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T14:46:38.000Z",
+        "description": "不想当人补药用性别框我、always stand by your side🏳️‍🌈、asexual💜｜Chinese、English｜AS｜我希望人类的人道主义是一种底线而非仰望｜因为as所以看上去很人机｜不太可爱但并不爱吵架",
+        "id": "1675878602930524163",
+        "name": "雾雨💫 🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965452179474710533/tHIk_H43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 203,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 314
+        },
+        "username": "indigo_skynight",
+        "verified": false
+      }
+    ]
+  }
+}

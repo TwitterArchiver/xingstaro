@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2067096998504006045",
+    "created_at": "2026-06-19T06:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067849865896530168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1986715081963712512",
+          "start": 0,
+          "username": "Ayer0809110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067849865896530168",
+    "in_reply_to_user_id": "1986715081963712512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067253137870880956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayer0809110 哎呀呀奸人看我不爽！这群蛆虫！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2067096998504006045",
+        "created_at": "2026-06-19T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067849865896530168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1986715081963712512",
+              "start": 0,
+              "username": "Ayer0809110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067849865896530168",
+        "in_reply_to_user_id": "1986715081963712512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067253137870880956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayer0809110 哎呀呀奸人看我不爽！这群蛆虫！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986715081963712512",
+        "conversation_id": "2067096998504006045",
+        "created_at": "2026-06-17T14:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067253137870880956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067253137870880956",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067096998504006045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 我去怎么又炸号了这个马斯克太坏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中借用星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/drea💊mugtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 416,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 754
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T08:39:22.000Z",
+        "description": "让你的指痕在我的骨骼上篆刻占有誓言吧",
+        "id": "1986715081963712512",
+        "location": "约兰",
+        "name": "摸艾尔大皮鼓",
+        "pinned_tweet_id": "2058081813781004434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067847157185720320/n5848_kx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 87,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "Ayer0809110",
+        "verified": false
+      }
+    ]
+  }
+}

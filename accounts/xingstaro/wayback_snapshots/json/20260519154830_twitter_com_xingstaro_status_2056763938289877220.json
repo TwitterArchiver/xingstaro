@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056676589648457991",
+    "created_at": "2026-05-19T15:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056763938289877220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921107120768118785",
+          "start": 0,
+          "username": "SaotomeShimeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056763938289877220",
+    "in_reply_to_user_id": "1921107120768118785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056676589648457991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaotomeShimeri 啊啊啊啊啊啊死目莉宝宝好萌……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16166,
+        "height": 1280,
+        "media_key": "13_2056676486111977472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056676486111977472/img/_398YabvAk-T9Tp2.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056676486111977472/vid/avc1/320x568/Dx6QerqHrXqfR0_4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056676486111977472/vid/avc1/480x852/NpsuDx5lBZ_2vHxm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056676486111977472/vid/avc1/720x1280/5vjDwf-I86Ld8kpL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056676486111977472/pl/DIK5_xZksmGC_q-4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056676589648457991",
+        "created_at": "2026-05-19T15:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056763938289877220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921107120768118785",
+              "start": 0,
+              "username": "SaotomeShimeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056763938289877220",
+        "in_reply_to_user_id": "1921107120768118785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056676589648457991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaotomeShimeri 啊啊啊啊啊啊死目莉宝宝好萌……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056676486111977472"
+          ]
+        },
+        "author_id": "1921107120768118785",
+        "conversation_id": "2056676589648457991",
+        "created_at": "2026-05-19T10:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056676589648457991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hb81lWcdOm",
+              "end": 39,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2056676589648457991/video/1",
+              "media_key": "13_2056676486111977472",
+              "start": 16,
+              "url": "https://t.co/Hb81lWcdOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056676589648457991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过的人都过来夸夸我很可爱好吗 https://t.co/Hb81lWcdOm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上🔪海",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 316,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 481
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T07:36:59.000Z",
+        "description": "＝死目莉\n🚫ai/双相/adhd/💊/🎨/🔪🩸/\n当朋友圈发，大量日常/废话/负能黑泥\n稿件相关请私讯",
+        "id": "1921107120768118785",
+        "name": "早乙女死目莉",
+        "pinned_tweet_id": "2056325769236746555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055923464910069760/gZVe8A7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 73,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 241
+        },
+        "username": "SaotomeShimeri",
+        "verified": false
+      }
+    ]
+  }
+}

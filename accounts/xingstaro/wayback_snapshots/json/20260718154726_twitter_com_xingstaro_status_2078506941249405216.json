@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2078506941249405216",
+    "created_at": "2026-07-18T15:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078506941249405216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078506941249405216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚才对着我妈喵喵叫喵了三分钟。。。。。\n不好意思我控制不住自己\n喵。\n\n每次磕pr谁在我面前恭喜你你能看到我剧烈弱智的瞬间。上次在17面前比手枪姿势“嘣嘣嘣嘣”也嘣了挺久的呃呃呃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2078506941249405216",
+        "created_at": "2026-07-18T15:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078506941249405216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078506941249405216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才对着我妈喵喵叫喵了三分钟。。。。。\n不好意思我控制不住自己\n喵。\n\n每次磕pr谁在我面前恭喜你你能看到我剧烈弱智的瞬间。上次在17面前比手枪姿势“嘣嘣嘣嘣”也嘣了挺久的呃呃呃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 495,
+          "like_count": 1443,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

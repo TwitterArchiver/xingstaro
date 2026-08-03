@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2056346829890142710",
+    "created_at": "2026-05-18T12:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056347498604818566"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056347498604818566",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056346829890142710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当然我不是说所有我假装不认识的都是我讨厌的，实际上就几个而已。大部分我装不认识是因为我们也没有很熟，而且我以前是明确表示过“无论大家转世多少次，来找我我都会和你们再次互关”，但是其他人没有，我就觉得我转世了也没必要一直续前缘，万一对人家来说是负担呢哼哼哼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056346829890142710",
+        "created_at": "2026-05-18T12:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056347498604818566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056347498604818566",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056346829890142710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然我不是说所有我假装不认识的都是我讨厌的，实际上就几个而已。大部分我装不认识是因为我们也没有很熟，而且我以前是明确表示过“无论大家转世多少次，来找我我都会和你们再次互关”，但是其他人没有，我就觉得我转世了也没必要一直续前缘，万一对人家来说是负担呢哼哼哼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2056346829890142710",
+        "created_at": "2026-05-18T12:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056346829890142710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056346829890142710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换马甲重生有一个好处，以前那些不太喜欢但又碍于表面不能双取的互关这一世终于可以装作不认识不续前缘了\n其实我不太喜欢没有原创内容的账号，我喜欢看原创性很强的很新奇的东西，非常讨厌梗图/弱智或恶俗笑话/复读机这类的靠拉低阅读智商线来获取大量流量的推文\n自己原创的梗图笑话倒是ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 293,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 407
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

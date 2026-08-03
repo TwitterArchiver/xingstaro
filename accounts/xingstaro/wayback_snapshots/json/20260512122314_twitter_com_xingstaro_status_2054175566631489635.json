@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054052938797256716",
+    "created_at": "2026-05-12T12:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054175566631489635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2006235005698375680",
+          "start": 0,
+          "username": "xioqngx286233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054175566631489635",
+    "in_reply_to_user_id": "2006235005698375680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054052938797256716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioqngx286233 0 医院有时给完我药还要给我人民币。。。我至今仍未知道为何我能白拿人民币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054052938797256716",
+        "created_at": "2026-05-12T12:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054175566631489635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2006235005698375680",
+              "start": 0,
+              "username": "xioqngx286233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054175566631489635",
+        "in_reply_to_user_id": "2006235005698375680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054052938797256716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioqngx286233 0 医院有时给完我药还要给我人民币。。。我至今仍未知道为何我能白拿人民币"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006235005698375680",
+        "conversation_id": "2054052938797256716",
+        "created_at": "2026-05-12T04:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054052938797256716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054052938797256716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们开的sns都多少钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 159,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 132
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T05:24:44.000Z",
+        "description": "07大学生 重度焦虑 双相情感障碍 重度药物依赖\n自残 sns重度依赖",
+        "id": "2006235005698375680",
+        "name": "小情绪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006235162279899136/p5ZU5CLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 138,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 60
+        },
+        "username": "xioqngx286233",
+        "verified": false
+      }
+    ]
+  }
+}

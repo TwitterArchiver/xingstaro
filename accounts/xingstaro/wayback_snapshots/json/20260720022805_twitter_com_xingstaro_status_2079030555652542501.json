@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2079030555652542501",
+    "created_at": "2026-07-20T02:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079030555652542501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/200x0x1x/statu…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/200x0x1x/status/2078811926533210141",
+          "start": 141,
+          "url": "https://t.co/XyXNFXR7iL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079030555652542501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078811926533210141",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "极品之我的神秘妈：在我上学期间本就精神状态不佳的情况下，一边关心我说要开开心心一切有家人在一边下雨天不让我打车让我走回学校说要培养我独立性，一边说我朋友真好一边说我成绩下降所有人都一定会讨厌我大家只会喜欢成绩好的\n\n我那个时候太小太年轻，我们系统还没成长起来，还太脆弱太听风就是雨 https://t.co/XyXNFXR7iL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2079030555652542501",
+        "created_at": "2026-07-20T02:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079030555652542501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/200x0x1x/status/2078811926533210141",
+              "start": 141,
+              "url": "https://t.co/XyXNFXR7iL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079030555652542501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078811926533210141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "极品之我的神秘妈：在我上学期间本就精神状态不佳的情况下，一边关心我说要开开心心一切有家人在一边下雨天不让我打车让我走回学校说要培养我独立性，一边说我朋友真好一边说我成绩下降所有人都一定会讨厌我大家只会喜欢成绩好的\n\n我那个时候太小太年轻，我们系统还没成长起来，还太脆弱太听风就是雨 https://t.co/XyXNFXR7iL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2078811926533210141",
+        "created_at": "2026-07-19T11:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078811926533210141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078811926533210141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 646,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人说我好，有人说我坏，有人关心我有人叫我去死，然后我双相了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 505,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 982
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078680882622365696/Mc8raabD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 676,
+          "like_count": 28738,
+          "listed_count": 7,
+          "media_count": 2483,
+          "tweet_count": 27484
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

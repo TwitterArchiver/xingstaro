@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2072288068569330079",
+    "created_at": "2026-07-01T11:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072288068569330079"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072288068569330079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晨重夜轻往往与睡眠障碍、日夜颠倒等问题共存，如果叠加感官过载比如光敏声敏则更加严重。除了短时起效抗抑郁药以外，psychedelic也能改善此问题，迷幻剂有概率打破重构DMN，改善躯体对昼夜的认知模式，并引发一定时间的neuroplasticity，虽然时间有限但引起的改变是很奇妙的……有幸体验过一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2072288068569330079",
+        "created_at": "2026-07-01T11:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072288068569330079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072288068569330079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晨重夜轻往往与睡眠障碍、日夜颠倒等问题共存，如果叠加感官过载比如光敏声敏则更加严重。除了短时起效抗抑郁药以外，psychedelic也能改善此问题，迷幻剂有概率打破重构DMN，改善躯体对昼夜的认知模式，并引发一定时间的neuroplasticity，虽然时间有限但引起的改变是很奇妙的……有幸体验过一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 451,
+          "like_count": 1272,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 848
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

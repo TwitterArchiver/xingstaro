@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054880071085945099",
+    "created_at": "2026-05-14T11:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054880071085945099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lomyral114514/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/lomyral114514/status/2054857693756870694",
+          "start": 18,
+          "url": "https://t.co/YdbCLPz2IG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054880071085945099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054857693756870694",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小十七还在申诉喵喵喵让我们一起等待 https://t.co/YdbCLPz2IG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054880071085945099",
+        "created_at": "2026-05-14T11:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054880071085945099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lomyral114514/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/lomyral114514/status/2054857693756870694",
+              "start": 18,
+              "url": "https://t.co/YdbCLPz2IG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054880071085945099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054857693756870694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小十七还在申诉喵喵喵让我们一起等待 https://t.co/YdbCLPz2IG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2054857693756870694",
+        "created_at": "2026-05-14T09:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054857693756870694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1638959586140098560",
+              "start": 3,
+              "username": "jiuyouforwhite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2053843958158266608",
+              "start": 51,
+              "url": "https://t.co/WD1aHLGNv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054857693756870694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053843958158266608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "悲报：@jiuyouforwhite因为太过想吃阿普唑仑而被msk击落，暂时无法回复私信，请诸位见谅 https://t.co/WD1aHLGNv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 207,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 229
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 444,
+          "like_count": 2511,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

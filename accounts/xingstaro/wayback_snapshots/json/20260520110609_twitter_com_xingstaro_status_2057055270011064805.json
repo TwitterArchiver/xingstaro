@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2057050472767455494",
+    "created_at": "2026-05-20T11:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057055270011064805"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057055270011064805",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057051508278235625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "3.阿普 burnout致抑郁的克星，如果当天过载耗竭了，到晚上还没缓过来，睡前吃了第二天醒来会舒服很多。睡眠时间短就吃少点或者弄碎点，长就整颗吃。很多医生其实分不清你到底是耗竭了还是抑郁症，全部喂ssri一条龙。。。。。很多人可能不是抑郁症。。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057050472767455494",
+        "created_at": "2026-05-20T11:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057055270011064805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057055270011064805",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057051508278235625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3.阿普 burnout致抑郁的克星，如果当天过载耗竭了，到晚上还没缓过来，睡前吃了第二天醒来会舒服很多。睡眠时间短就吃少点或者弄碎点，长就整颗吃。很多医生其实分不清你到底是耗竭了还是抑郁症，全部喂ssri一条龙。。。。。很多人可能不是抑郁症。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2057050472767455494",
+        "created_at": "2026-05-20T10:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057051508278235625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057051508278235625",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057050472767455494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好的叠完厚甲了，这层及此层回复全部讲上述药物的使用特性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘食物的转世 非好感请勿私信\n互fo查成分回 前世互关立刻回 请寻回我。。\n100%神经病/drea💊mgtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 338,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 525
+        },
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

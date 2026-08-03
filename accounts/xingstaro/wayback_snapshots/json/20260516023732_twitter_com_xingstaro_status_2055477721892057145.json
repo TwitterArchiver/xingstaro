@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2055276119033823560",
+    "created_at": "2026-05-16T02:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055477721892057145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013414264225308672",
+          "start": 0,
+          "username": "ourakusen3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055477721892057145",
+    "in_reply_to_user_id": "2013414264225308672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055320451166179699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ourakusen3 牛逼克拉斯地球是你家666管别人喜欢谁\n我更看不起你这种因为讨厌谁就要追着咬的人 没有一点主体性 为了一个人剧烈破防\n莫名其妙对我喜欢的人口出恶语，弹唱圣娼二象性，那套说辞老掉牙了，世界并非不圣则娼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2055276119033823560",
+        "created_at": "2026-05-16T02:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055477721892057145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013414264225308672",
+              "start": 0,
+              "username": "ourakusen3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055477721892057145",
+        "in_reply_to_user_id": "2013414264225308672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055320451166179699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ourakusen3 牛逼克拉斯地球是你家666管别人喜欢谁\n我更看不起你这种因为讨厌谁就要追着咬的人 没有一点主体性 为了一个人剧烈破防\n莫名其妙对我喜欢的人口出恶语，弹唱圣娼二象性，那套说辞老掉牙了，世界并非不圣则娼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013414264225308672",
+        "conversation_id": "2055276119033823560",
+        "created_at": "2026-05-15T16:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055320451166179699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055320451166179699",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055276119033823560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 我就是看不起你这种把妓女当圣女的废物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是某神秘食物的转世\n求互fo 喜欢点赞评论 请寻回我。。\n100%psyxxx/dreamgtwt/i love 上海",
+        "id": "2053435734737186816",
+        "name": "星星（某神秘食物的4.0）",
+        "pinned_tweet_id": "2054191785669529680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 231,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 272
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T00:53:06.000Z",
+        "description": "",
+        "id": "2013414264225308672",
+        "name": "请",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023384283235434496/QQLIVEM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "ourakusen3",
+        "verified": false
+      }
+    ]
+  }
+}

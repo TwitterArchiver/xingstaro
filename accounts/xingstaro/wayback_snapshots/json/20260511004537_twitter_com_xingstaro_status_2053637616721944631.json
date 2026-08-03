@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2053450832763662820",
+    "created_at": "2026-05-11T00:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053637616721944631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888843184135970816",
+          "start": 0,
+          "username": "wang_xinsh3huan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053637616721944631",
+    "in_reply_to_user_id": "1888843184135970816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053518098997658052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_xinsh3huan 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2053450832763662820",
+        "created_at": "2026-05-11T00:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053637616721944631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888843184135970816",
+              "start": 0,
+              "username": "wang_xinsh3huan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053637616721944631",
+        "in_reply_to_user_id": "1888843184135970816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053518098997658052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_xinsh3huan 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888843184135970816",
+        "conversation_id": "2053450832763662820",
+        "created_at": "2026-05-10T16:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053518098997658052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053518098997658052",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053450832763662820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 来吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 随便怎么叫！\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星永不打烊",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 72,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T06:51:32.000Z",
+        "description": "a drawer｜美表～水表～高浓度见证且猎奇 我想发我的画 全网最尊重美国国务卿和美国副总统",
+        "id": "1888843184135970816",
+        "name": "@trusus",
+        "pinned_tweet_id": "2010077526656462903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022681497858416640/KLFZa8Ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 270,
+          "like_count": 2280,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 615
+        },
+        "username": "wang_xinsh3huan",
+        "verified": false
+      }
+    ]
+  }
+}

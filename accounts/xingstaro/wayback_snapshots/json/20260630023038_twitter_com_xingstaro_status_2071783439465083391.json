@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2071758600230633936",
+    "created_at": "2026-06-30T02:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T03:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071783439465083391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1986715081963712512",
+          "start": 0,
+          "username": "Ayer0809110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071783439465083391",
+    "in_reply_to_user_id": "1986715081963712512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071773988905439568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayer0809110 QAQ呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2071758600230633936",
+        "created_at": "2026-06-30T02:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071783439465083391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1986715081963712512",
+              "start": 0,
+              "username": "Ayer0809110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071783439465083391",
+        "in_reply_to_user_id": "1986715081963712512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071773988905439568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayer0809110 QAQ呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986715081963712512",
+        "conversation_id": "2071758600230633936",
+        "created_at": "2026-06-30T01:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071773988905439568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071773988905439568",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071758600230633936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中借用星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/drea💊mugtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 425,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 767
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T08:39:22.000Z",
+        "description": "让你的指痕在我的骨骼上篆刻占有誓言吧",
+        "id": "1986715081963712512",
+        "location": "约兰",
+        "name": "救赎十字架",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067869929991491584/QNJma2gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 90,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "Ayer0809110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071928070517194753",
+        "3_2071928070492012544"
+      ]
+    },
+    "author_id": "2053435734737186816",
+    "conversation_id": "2071928079409176794",
+    "created_at": "2026-06-30T12:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071928079409176794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jQTLnE2R7A",
+          "end": 54,
+          "expanded_url": "https://x.com/xingstaro/status/2071928079409176794/photo/1",
+          "media_key": "3_2071928070517194753",
+          "start": 31,
+          "url": "https://t.co/jQTLnE2R7A"
+        },
+        {
+          "display_url": "pic.x.com/jQTLnE2R7A",
+          "end": 54,
+          "expanded_url": "https://x.com/xingstaro/status/2071928079409176794/photo/1",
+          "media_key": "3_2071928070492012544",
+          "start": 31,
+          "url": "https://t.co/jQTLnE2R7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071928079409176794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虚构模拟一下 性享受者使用大麻后的性高潮体验 第一次专注品鉴 https://t.co/jQTLnE2R7A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1834,
+        "media_key": "3_2071928070517194753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD3mkNWgAEdpgs.jpg",
+        "width": 1004
+      },
+      {
+        "height": 616,
+        "media_key": "3_2071928070492012544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD3mkHWQAAGcUF.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071928070517194753",
+            "3_2071928070492012544"
+          ]
+        },
+        "author_id": "2053435734737186816",
+        "conversation_id": "2071928079409176794",
+        "created_at": "2026-06-30T12:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071928079409176794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQTLnE2R7A",
+              "end": 54,
+              "expanded_url": "https://x.com/xingstaro/status/2071928079409176794/photo/1",
+              "media_key": "3_2071928070517194753",
+              "start": 31,
+              "url": "https://t.co/jQTLnE2R7A"
+            },
+            {
+              "display_url": "pic.x.com/jQTLnE2R7A",
+              "end": 54,
+              "expanded_url": "https://x.com/xingstaro/status/2071928079409176794/photo/1",
+              "media_key": "3_2071928070492012544",
+              "start": 31,
+              "url": "https://t.co/jQTLnE2R7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071928079409176794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虚构模拟一下 性享受者使用大麻后的性高潮体验 第一次专注品鉴 https://t.co/jQTLnE2R7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中借用星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 432,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}
