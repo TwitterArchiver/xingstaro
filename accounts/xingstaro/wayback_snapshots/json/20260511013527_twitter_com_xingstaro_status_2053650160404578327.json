@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2053527981717680140",
+    "created_at": "2026-05-11T01:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053650160404578327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053650160404578327",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053527981717680140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 这叫自沙干预的话，冷嘲热讽的健全人看起来都没那么恶毒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2053527976952942592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Y0KKbUAAUq7d.jpg",
+        "width": 1812
+      },
+      {
+        "height": 2176,
+        "media_key": "3_2053527978521530369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Y0QAaEAESROU.jpg",
+        "width": 1812
+      },
+      {
+        "height": 2176,
+        "media_key": "3_2053527977556836352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Y0MaaAAA8Bhz.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2053527981717680140",
+        "created_at": "2026-05-11T01:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053650160404578327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053650160404578327",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053527981717680140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 这叫自沙干预的话，冷嘲热讽的健全人看起来都没那么恶毒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053527976952942592",
+            "3_2053527978521530369",
+            "3_2053527977556836352"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2053527981717680140",
+        "created_at": "2026-05-10T17:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053527981717680140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnFF4YIH9p",
+              "end": 101,
+              "expanded_url": "https://x.com/Strf_9040C/status/2053527981717680140/photo/1",
+              "media_key": "3_2053527976952942592",
+              "start": 78,
+              "url": "https://t.co/MnFF4YIH9p"
+            },
+            {
+              "display_url": "pic.x.com/MnFF4YIH9p",
+              "end": 101,
+              "expanded_url": "https://x.com/Strf_9040C/status/2053527981717680140/photo/1",
+              "media_key": "3_2053527978521530369",
+              "start": 78,
+              "url": "https://t.co/MnFF4YIH9p"
+            },
+            {
+              "display_url": "pic.x.com/MnFF4YIH9p",
+              "end": 101,
+              "expanded_url": "https://x.com/Strf_9040C/status/2053527981717680140/photo/1",
+              "media_key": "3_2053527977556836352",
+              "start": 78,
+              "url": "https://t.co/MnFF4YIH9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053527981717680140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2055,
+          "like_count": 32,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看不懂这是个什么行为\n说是“干预”\n实际上一点辅导工作都没做\n看见消息就是一味举报\n这算哪门子干预？\n专家共识是不看的\n毒理药理是不学的\n精神病学是不翻的 https://t.co/MnFF4YIH9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "＝晓星 是一神秘食物的转世\n求互fo 非常喜欢给大家点赞评论！\n100%psycho一定有匹配你们的成分/enby",
+        "id": "2053435734737186816",
+        "name": "星星永不打烊",
+        "pinned_tweet_id": "2053501145235001672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 77,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1989,
+          "like_count": 9573,
+          "listed_count": 2,
+          "media_count": 466,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

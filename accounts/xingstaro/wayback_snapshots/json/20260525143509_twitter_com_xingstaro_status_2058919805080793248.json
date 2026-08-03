@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2058919805080793248",
+    "created_at": "2026-05-25T14:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058919805080793248"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "病み垢"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "自撮り"
+        },
+        {
+          "end": 123,
+          "start": 116,
+          "tag": "病みかわいい"
+        },
+        {
+          "end": 137,
+          "start": 125,
+          "tag": "病み垢さんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1409516495571501066",
+          "start": 3,
+          "username": "DrankghostU"
+        },
+        {
+          "end": 34,
+          "id": "1921107120768118785",
+          "start": 19,
+          "username": "SaotomeShimeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058919805080793248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058393594923557006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrankghostU: 前世@SaotomeShimeri \n\n气哭了！气死我了。到底是谁在举报我！\n死目莉不会再发雪兔了……\n寻回互关中！！！呜呜呜\n虽然被口球了七天但这七天我不刷推是不可能的😈……\n#病み垢 #自撮り #病みかわいい  #病み垢さんと繋がりたい h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058393565970214912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDiCtuasAADidC.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058393565970194432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDiCtuaYAAEr0K.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058393565978611712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDiCtwa0AATKKV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2058393565982781440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDiCtxacAAiQXa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2058919805080793248",
+        "created_at": "2026-05-25T14:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058919805080793248"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "病み垢"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "自撮り"
+            },
+            {
+              "end": 123,
+              "start": 116,
+              "tag": "病みかわいい"
+            },
+            {
+              "end": 137,
+              "start": 125,
+              "tag": "病み垢さんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1409516495571501066",
+              "start": 3,
+              "username": "DrankghostU"
+            },
+            {
+              "end": 34,
+              "id": "1921107120768118785",
+              "start": 19,
+              "username": "SaotomeShimeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058919805080793248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058393594923557006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrankghostU: 前世@SaotomeShimeri \n\n气哭了！气死我了。到底是谁在举报我！\n死目莉不会再发雪兔了……\n寻回互关中！！！呜呜呜\n虽然被口球了七天但这七天我不刷推是不可能的😈……\n#病み垢 #自撮り #病みかわいい  #病み垢さんと繋がりたい h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058393565970214912",
+            "3_2058393565970194432",
+            "3_2058393565978611712",
+            "3_2058393565982781440"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2058393594923557006",
+        "created_at": "2026-05-24T03:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058393594923557006"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "病み垢"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "自撮り"
+            },
+            {
+              "end": 106,
+              "start": 99,
+              "tag": "病みかわいい"
+            },
+            {
+              "end": 120,
+              "start": 108,
+              "tag": "病み垢さんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1921107120768118785",
+              "start": 2,
+              "username": "SaotomeShimeri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmGDdohhqA",
+              "end": 144,
+              "expanded_url": "https://x.com/DrankghostU/status/2058393594923557006/photo/1",
+              "media_key": "3_2058393565970214912",
+              "start": 121,
+              "url": "https://t.co/jmGDdohhqA"
+            },
+            {
+              "display_url": "pic.x.com/jmGDdohhqA",
+              "end": 144,
+              "expanded_url": "https://x.com/DrankghostU/status/2058393594923557006/photo/1",
+              "media_key": "3_2058393565970194432",
+              "start": 121,
+              "url": "https://t.co/jmGDdohhqA"
+            },
+            {
+              "display_url": "pic.x.com/jmGDdohhqA",
+              "end": 144,
+              "expanded_url": "https://x.com/DrankghostU/status/2058393594923557006/photo/1",
+              "media_key": "3_2058393565978611712",
+              "start": 121,
+              "url": "https://t.co/jmGDdohhqA"
+            },
+            {
+              "display_url": "pic.x.com/jmGDdohhqA",
+              "end": 144,
+              "expanded_url": "https://x.com/DrankghostU/status/2058393594923557006/photo/1",
+              "media_key": "3_2058393565982781440",
+              "start": 121,
+              "url": "https://t.co/jmGDdohhqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058393594923557006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2877,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "前世@SaotomeShimeri \n\n气哭了！气死我了。到底是谁在举报我！\n死目莉不会再发雪兔了……\n寻回互关中！！！呜呜呜\n虽然被口球了七天但这七天我不刷推是不可能的😈……\n#病み垢 #自撮り #病みかわいい  #病み垢さんと繋がりたい https://t.co/jmGDdohhqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "晓星 某神秘id的变体 非好感请勿私信\n互fo查成分回 我回得慢可以评论区戳我\n100%神经病/drea💊mugtwt/i love 上海🔪",
+        "id": "2053435734737186816",
+        "name": "星星⭐",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 391,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 718
+        },
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 120,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "DrankghostU",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T07:36:59.000Z",
+        "description": "＝死目莉\n🚫ai/双相/adhd/💊/🎨/🔪🩸/刻板印象entp4w3/喜欢twt的大家且希望所有人能幸福\n当朋友圈发，大量日常/废话/负能黑泥\n稿件相关请私讯",
+        "id": "1921107120768118785",
+        "name": "早乙女死目莉",
+        "pinned_tweet_id": "2058092274270232717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055923464910069760/gZVe8A7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 146,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 425
+        },
+        "username": "SaotomeShimeri",
+        "verified": false
+      }
+    ]
+  }
+}
