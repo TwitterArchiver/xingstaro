@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2084099829396099565",
+    "created_at": "2026-08-03T02:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084101552789389326"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084101552789389326",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084100272222339419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很搞笑的比如，我发小以前不小心手滑给我发了个句号，我以为她对我有意见，我一分钟之内问她是不是不能接受我的观点不能的话就散了我接受这个结果（我们已经认识十几年了）发小吓得死去活来说只是手滑之（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2084099829396099565",
+        "created_at": "2026-08-03T02:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084101552789389326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084101552789389326",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084100272222339419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很搞笑的比如，我发小以前不小心手滑给我发了个句号，我以为她对我有意见，我一分钟之内问她是不是不能接受我的观点不能的话就散了我接受这个结果（我们已经认识十几年了）发小吓得死去活来说只是手滑之（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2084099829396099565",
+        "created_at": "2026-08-03T02:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084100272222339419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084100272222339419",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084099829396099565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我昨晚在研究为什么我非常厌恶冲突 一遇到矛盾第一反应是物理距离离开+社交联系删除+精神冷漠隔绝，我研究了一下发现全部是小时候+青少年时候的破事造就的，然后我没有办法解决"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 500,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1037
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

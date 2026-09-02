@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085608301644197888"
+      ]
+    },
+    "author_id": "2053435734737186816",
+    "conversation_id": "2085608309533618277",
+    "created_at": "2026-08-07T06:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085608309533618277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JxFJiDQzgZ",
+          "end": 37,
+          "expanded_url": "https://x.com/xingstaro/status/2085608309533618277/photo/1",
+          "media_key": "3_2085608301644197888",
+          "start": 14,
+          "url": "https://t.co/JxFJiDQzgZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085608309533618277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "古有孟母三迁 今有糯米三诉 https://t.co/JxFJiDQzgZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085608301644197888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGRs0gbsAATfmV.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085608301644197888"
+          ]
+        },
+        "author_id": "2053435734737186816",
+        "conversation_id": "2085608309533618277",
+        "created_at": "2026-08-07T06:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085608309533618277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxFJiDQzgZ",
+              "end": 37,
+              "expanded_url": "https://x.com/xingstaro/status/2085608309533618277/photo/1",
+              "media_key": "3_2085608301644197888",
+              "start": 14,
+              "url": "https://t.co/JxFJiDQzgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085608309533618277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "古有孟母三迁 今有糯米三诉 https://t.co/JxFJiDQzgZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 523,
+          "like_count": 1741,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1124
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

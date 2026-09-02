@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2086063281052258715",
+    "created_at": "2026-08-08T12:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T13:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086063281052258715"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086063281052258715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我太喜欢吃pr的时候买那种大杯奶茶了 而且不要料多的 因为我会剧烈口渴 我就坐在沙发上剧烈欣快然后抱着奶茶哼哧哼哧咕噜咕噜咕噜咕噜咕噜咕噜咕噜太好玩啦好幸福好满足嘿嘿嘿奶茶真好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2086063281052258715",
+        "created_at": "2026-08-08T12:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086063281052258715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086063281052258715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太喜欢吃pr的时候买那种大杯奶茶了 而且不要料多的 因为我会剧烈口渴 我就坐在沙发上剧烈欣快然后抱着奶茶哼哧哼哧咕噜咕噜咕噜咕噜咕噜咕噜咕噜太好玩啦好幸福好满足嘿嘿嘿奶茶真好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 527,
+          "like_count": 1799,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1157
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

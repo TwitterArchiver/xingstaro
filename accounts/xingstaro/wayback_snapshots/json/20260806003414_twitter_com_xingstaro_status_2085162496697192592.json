@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2085027520056094991",
+    "created_at": "2026-08-06T00:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T01:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085162496697192592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1158756732664872962",
+          "start": 0,
+          "username": "linying36052780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085162496697192592",
+    "in_reply_to_user_id": "1158756732664872962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085096963469717887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linying36052780 好🥺🥺贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2085027520056094991",
+        "created_at": "2026-08-06T00:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085162496697192592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1158756732664872962",
+              "start": 0,
+              "username": "linying36052780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085162496697192592",
+        "in_reply_to_user_id": "1158756732664872962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085096963469717887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linying36052780 好🥺🥺贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158756732664872962",
+        "conversation_id": "2085027520056094991",
+        "created_at": "2026-08-05T20:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085096963469717887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085096963469717887",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085027520056094991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 寶寶好好休息🥺注意安全"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 516,
+          "like_count": 1692,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T15:08:28.000Z",
+        "description": "msk你無敵了，不發血圖也封我號",
+        "id": "1158756732664872962",
+        "name": "遺灰6.0",
+        "pinned_tweet_id": "2081632237519519886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081632135363125248/KPI4bG_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 137,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "linying36052780",
+        "verified": false
+      }
+    ]
+  }
+}

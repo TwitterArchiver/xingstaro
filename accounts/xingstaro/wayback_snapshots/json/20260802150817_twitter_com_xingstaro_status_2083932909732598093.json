@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083932902270844928",
+        "3_2083932902396743681"
+      ]
+    },
+    "author_id": "2053435734737186816",
+    "conversation_id": "2083932909732598093",
+    "created_at": "2026-08-02T15:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083932909732598093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QCq4EiuIWD",
+          "end": 171,
+          "expanded_url": "https://x.com/xingstaro/status/2083932909732598093/photo/1",
+          "media_key": "3_2083932902270844928",
+          "start": 148,
+          "url": "https://t.co/QCq4EiuIWD"
+        },
+        {
+          "display_url": "pic.x.com/QCq4EiuIWD",
+          "end": 171,
+          "expanded_url": "https://x.com/xingstaro/status/2083932909732598093/photo/1",
+          "media_key": "3_2083932902396743681",
+          "start": 148,
+          "url": "https://t.co/QCq4EiuIWD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083932909732598093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道为啥X最近老给我发这个\n你好我最近挺好的，我根本没有度过一段艰难的时光，没有什么困难的地方。\n如果非要陈述，我不是在度过一段艰难的时光，我是在度过一场艰难的生命，你明白吗，艰难的时光就是遇到了一些临时性的挫折，艰难的生命意味着我的人生从一开始就tough and incompatible https://t.co/QCq4EiuIWD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2083932902270844928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOud7veaQAAgOJ1.jpg",
+        "width": 1179
+      },
+      {
+        "height": 597,
+        "media_key": "3_2083932902396743681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOud7v8bUAEW6MW.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083932902270844928",
+            "3_2083932902396743681"
+          ]
+        },
+        "author_id": "2053435734737186816",
+        "conversation_id": "2083932909732598093",
+        "created_at": "2026-08-02T15:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083932909732598093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QCq4EiuIWD",
+              "end": 171,
+              "expanded_url": "https://x.com/xingstaro/status/2083932909732598093/photo/1",
+              "media_key": "3_2083932902270844928",
+              "start": 148,
+              "url": "https://t.co/QCq4EiuIWD"
+            },
+            {
+              "display_url": "pic.x.com/QCq4EiuIWD",
+              "end": 171,
+              "expanded_url": "https://x.com/xingstaro/status/2083932909732598093/photo/1",
+              "media_key": "3_2083932902396743681",
+              "start": 148,
+              "url": "https://t.co/QCq4EiuIWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083932909732598093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为啥X最近老给我发这个\n你好我最近挺好的，我根本没有度过一段艰难的时光，没有什么困难的地方。\n如果非要陈述，我不是在度过一段艰难的时光，我是在度过一场艰难的生命，你明白吗，艰难的时光就是遇到了一些临时性的挫折，艰难的生命意味着我的人生从一开始就tough and incompatible https://t.co/QCq4EiuIWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 498,
+          "like_count": 1563,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

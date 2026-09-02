@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2084085135079878862",
+    "created_at": "2026-08-03T01:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084085135079878862"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084085135079878862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喹硫平减量中（遵医嘱减量）\n我需要做到无限贴近于0%药物的依赖\n\n目前唯一每日一定会服用的是喹硫平，其他药物皆为娱乐用药可做到一个月不吃一口别的，我睡眠问题是从小到大小时候没有任何重度精神疾病也会这样，所以这辈子无法脱离安定作用的药物，但是减量我还是能做到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2084085135079878862",
+        "created_at": "2026-08-03T01:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084085135079878862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084085135079878862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喹硫平减量中（遵医嘱减量）\n我需要做到无限贴近于0%药物的依赖\n\n目前唯一每日一定会服用的是喹硫平，其他药物皆为娱乐用药可做到一个月不吃一口别的，我睡眠问题是从小到大小时候没有任何重度精神疾病也会这样，所以这辈子无法脱离安定作用的药物，但是减量我还是能做到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 498,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

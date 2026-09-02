@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2085758896925552762",
+    "created_at": "2026-08-07T16:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085767026862387346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782338827715301376",
+          "start": 0,
+          "username": "Asuka995518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085767026862387346",
+    "in_reply_to_user_id": "1782338827715301376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085758896925552762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka995518 卧槽 太美萌了女神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6300,
+        "height": 720,
+        "media_key": "13_2085758864893632512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085758864893632512/img/t_Gk9Oy2aDtDqRtR.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085758864893632512/vid/avc1/480x270/5UoVg5XXwlmJK-Ts.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085758864893632512/vid/avc1/640x360/4FyHI-nzdHfzziqs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085758864893632512/vid/avc1/1280x720/_ZIwBev-gbmtW_K4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085758864893632512/pl/fEtgdVkmJWguT9m6.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2085758896925552762",
+        "created_at": "2026-08-07T16:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085767026862387346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782338827715301376",
+              "start": 0,
+              "username": "Asuka995518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085767026862387346",
+        "in_reply_to_user_id": "1782338827715301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085758896925552762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka995518 卧槽 太美萌了女神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085758864893632512"
+          ]
+        },
+        "author_id": "1782338827715301376",
+        "conversation_id": "2085758896925552762",
+        "created_at": "2026-08-07T16:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085758896925552762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1IXD5vKK7W",
+              "end": 23,
+              "expanded_url": "https://x.com/Asuka995518/status/2085758896925552762/video/1",
+              "media_key": "13_2085758864893632512",
+              "start": 0,
+              "url": "https://t.co/1IXD5vKK7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085758896925552762",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1IXD5vKK7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 525,
+          "like_count": 1778,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1137
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T09:21:22.000Z",
+        "description": "君の首を絞める夢を見た",
+        "id": "1782338827715301376",
+        "location": "Tokyo-to, Japan",
+        "name": "asuka_1004",
+        "pinned_tweet_id": "2047922643429695887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048317901577601024/HtP4tERG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 485,
+          "like_count": 4211,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "Asuka995518",
+        "verified": false
+      }
+    ]
+  }
+}

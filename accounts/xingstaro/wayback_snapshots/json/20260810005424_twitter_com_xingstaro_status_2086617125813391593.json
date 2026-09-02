@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2086617125813391593",
+    "created_at": "2026-08-10T00:54:24.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T01:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086617125813391593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yukiha_air/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/yukiha_air/status/2086358029176582544",
+          "start": 21,
+          "url": "https://t.co/FKA9AjtMNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086617125813391593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086358029176582544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的天使长小翼宝宝😭😭😭😭\nmsk我恨你 https://t.co/FKA9AjtMNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2086358020532129792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQ7kNAa0AAli1e.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2086617125813391593",
+        "created_at": "2026-08-10T00:54:24.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086617125813391593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukiha_air/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/yukiha_air/status/2086358029176582544",
+              "start": 21,
+              "url": "https://t.co/FKA9AjtMNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086617125813391593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086358029176582544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的天使长小翼宝宝😭😭😭😭\nmsk我恨你 https://t.co/FKA9AjtMNA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086358020532129792"
+          ]
+        },
+        "author_id": "2086341615153762304",
+        "conversation_id": "2086358029176582544",
+        "created_at": "2026-08-09T07:44:51.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086358029176582544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrewhBAgR3",
+              "end": 52,
+              "expanded_url": "https://x.com/yukiha_Air/status/2086358029176582544/photo/1",
+              "media_key": "3_2086358020532129792",
+              "start": 29,
+              "url": "https://t.co/PrewhBAgR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086358029176582544",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086358020532129792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1194,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我是小翼   \n被坏人举报冻结中\n转帖助力我巡回互fo😭 https://t.co/PrewhBAgR3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086617125813391593",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053435734737186816/1778413446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 520,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T06:42:26.000Z",
+        "description": "前世@Air_Yukiha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Air_Yukiha"
+              }
+            ]
+          }
+        },
+        "id": "2086341615153762304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086503454261068240",
+        "name": "翼（2.0）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086342687171719168/jf3n2JTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 100,
+          "like_count": 8,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "yukiha_Air",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

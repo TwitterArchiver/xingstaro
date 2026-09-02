@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2083907937941197108",
+    "created_at": "2026-08-02T13:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083911025922089438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2005197236628840448",
+          "start": 0,
+          "username": "Ruri_17T6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083911025922089438",
+    "in_reply_to_user_id": "2005197236628840448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083910077682164204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruri_17T6 暂炸一下！试图申诉QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2083907937941197108",
+        "created_at": "2026-08-02T13:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083911025922089438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2005197236628840448",
+              "start": 0,
+              "username": "Ruri_17T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083911025922089438",
+        "in_reply_to_user_id": "2005197236628840448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083910077682164204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruri_17T6 暂炸一下！试图申诉QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005197236628840448",
+        "conversation_id": "2083907937941197108",
+        "created_at": "2026-08-02T13:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083910077682164204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083910077682164204",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083907937941197108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 救命4.0也炸了嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 497,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1025
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T08:41:06.000Z",
+        "description": "ಇ.朝霞 | 焦慮創傷恐慌治療中(新增解離) | 厭男/厭正常健全人。| ｡.:*･ﾟ☆.｡.:*･ﾟ”￡(｡･”･)-†",
+        "id": "2005197236628840448",
+        "name": "ㄓㄒ2.0",
+        "pinned_tweet_id": "2014178575554158943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005215503162421248/muYGBQ3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 69,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 476
+        },
+        "url": "",
+        "username": "Ruri_17T6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2086157438852694258",
+    "created_at": "2026-08-09T06:55:26.000Z",
+    "display_text_range": [
+      15,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086345594965282872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518404201168007168",
+          "start": 0,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086345594965282872",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086157438852694258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godspeedyou50 这种人真的巨多……我大号特别强调了别私信 因为很多没礼貌然后问的又是弱智问题 好像全世界都应该绕着他转（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086157428442472448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOFINPbIAADR2G.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086157428392132608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOFINDbAAA_Sdn.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086157428387921920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOFINCawAAOnQt.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2086157438852694258",
+        "created_at": "2026-08-09T06:55:26.000Z",
+        "display_text_range": [
+          15,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086345594965282872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086345594965282872",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086157438852694258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 这种人真的巨多……我大号特别强调了别私信 因为很多没礼貌然后问的又是弱智问题 好像全世界都应该绕着他转（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086157428442472448",
+            "3_2086157428392132608",
+            "3_2086157428387921920"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2086157438852694258",
+        "created_at": "2026-08-08T18:27:47.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T19:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086157438852694258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UeC4mWBX2I",
+              "end": 41,
+              "expanded_url": "https://x.com/godspeedyou50/status/2086157438852694258/photo/1",
+              "media_key": "3_2086157428442472448",
+              "start": 18,
+              "url": "https://t.co/UeC4mWBX2I"
+            },
+            {
+              "display_url": "pic.x.com/UeC4mWBX2I",
+              "end": 41,
+              "expanded_url": "https://x.com/godspeedyou50/status/2086157438852694258/photo/1",
+              "media_key": "3_2086157428392132608",
+              "start": 18,
+              "url": "https://t.co/UeC4mWBX2I"
+            },
+            {
+              "display_url": "pic.x.com/UeC4mWBX2I",
+              "end": 41,
+              "expanded_url": "https://x.com/godspeedyou50/status/2086157438852694258/photo/1",
+              "media_key": "3_2086157428387921920",
+              "start": 18,
+              "url": "https://t.co/UeC4mWBX2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086157438852694258",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086157428442472448"
+          },
+          {
+            "media_key": "3_2086157428392132608"
+          },
+          {
+            "media_key": "3_2086157428387921920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 747,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在没法忍你们 真有点边界感各位 https://t.co/UeC4mWBX2I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086345594965282872",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053435734737186816/1778413446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 528,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1184
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086157438852694258",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 642,
+          "like_count": 1321,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 3007
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083907929401630720"
+      ]
+    },
+    "author_id": "2053435734737186816",
+    "conversation_id": "2083907937941197108",
+    "created_at": "2026-08-02T13:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083907937941197108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nmGi44UGlI",
+          "end": 49,
+          "expanded_url": "https://x.com/xingstaro/status/2083907937941197108/photo/1",
+          "media_key": "3_2083907929401630720",
+          "start": 26,
+          "url": "https://t.co/nmGi44UGlI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083907937941197108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老马发现我的推文已经无可举报转而连我bio也给端了 https://t.co/nmGi44UGlI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083907929401630720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuHOISaoAAQgM-.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083907929401630720"
+          ]
+        },
+        "author_id": "2053435734737186816",
+        "conversation_id": "2083907937941197108",
+        "created_at": "2026-08-02T13:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083907937941197108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmGi44UGlI",
+              "end": 49,
+              "expanded_url": "https://x.com/xingstaro/status/2083907937941197108/photo/1",
+              "media_key": "3_2083907929401630720",
+              "start": 26,
+              "url": "https://t.co/nmGi44UGlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083907937941197108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老马发现我的推文已经无可举报转而连我bio也给端了 https://t.co/nmGi44UGlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 497,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1023
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

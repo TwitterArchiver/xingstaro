@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2084613949190975524",
+    "created_at": "2026-08-04T12:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084622308967350518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047155443613704192",
+          "start": 0,
+          "username": "dem0427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084622308967350518",
+    "in_reply_to_user_id": "2047155443613704192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084619505926639963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dem0427 对对我也觉得缺乏精准 我很傲慢不知道为什么测出正常来了 笑死我了怎么有一个色欲100的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1550,
+        "media_key": "3_2084619498964082688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4OY7ebYAAHecP.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2084613949190975524",
+        "created_at": "2026-08-04T12:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084622308967350518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047155443613704192",
+              "start": 0,
+              "username": "dem0427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084622308967350518",
+        "in_reply_to_user_id": "2047155443613704192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084619505926639963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dem0427 对对我也觉得缺乏精准 我很傲慢不知道为什么测出正常来了 笑死我了怎么有一个色欲100的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084619498964082688"
+          ]
+        },
+        "author_id": "2047155443613704192",
+        "conversation_id": "2084613949190975524",
+        "created_at": "2026-08-04T12:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084619505926639963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1z5bKx9jk",
+              "end": 128,
+              "expanded_url": "https://x.com/dem0427/status/2084619505926639963/photo/1",
+              "media_key": "3_2084619498964082688",
+              "start": 105,
+              "url": "https://t.co/h1z5bKx9jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084619505926639963",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084613949190975524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 色欲和傲慢这一块。这个测试里的色欲确实更像是情欲。这个测试不够精准，按理来说，我的嫉妒值应该和傲慢值相当，情欲值并没有这么高。总的来说，题目太少了，而且不够具体不够情境化，当个参考就行。 https://t.co/h1z5bKx9jk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 512,
+          "like_count": 1655,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1080
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T03:28:03.000Z",
+        "description": "这世界有那么多人",
+        "id": "2047155443613704192",
+        "location": "子宫",
+        "name": "绯世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083561093692370945/aHOxkAOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 11,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "dem0427",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2054203632053338154",
+    "created_at": "2026-08-14T01:53:12.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T02:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088081472431571205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1961843634934071296",
+          "start": 0,
+          "username": "icovcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088081472431571205",
+    "in_reply_to_user_id": "1961843634934071296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087163220088029327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icovcr 是哒ovo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2054203632053338154",
+        "created_at": "2026-08-14T01:53:12.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088081472431571205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1961843634934071296",
+              "start": 0,
+              "username": "icovcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088081472431571205",
+        "in_reply_to_user_id": "1961843634934071296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087163220088029327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icovcr 是哒ovo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961843634934071296",
+        "conversation_id": "2054203632053338154",
+        "created_at": "2026-08-11T13:04:23.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087163220088029327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087163220088029327",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054203632053338154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 这个也是糯米的号？😮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088081472431571205",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053435734737186816/1778413446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 516,
+          "like_count": 1867,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1194
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-30T17:29:25.000Z",
+        "description": "能否像露出肌肤一样坦诚呢？",
+        "id": "1961843634934071296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087163517510299827",
+        "name": "穆盼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961843634934071296/1772647823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029258155876818944/CIjhQQtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 41,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "icovcr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

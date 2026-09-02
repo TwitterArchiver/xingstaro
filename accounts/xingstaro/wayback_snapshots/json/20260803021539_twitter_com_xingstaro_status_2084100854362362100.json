@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2084099829396099565",
+    "created_at": "2026-08-03T02:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084100854362362100"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084100854362362100",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084099829396099565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我今天觉得我不能去解决或者暂时不能解决，因为我只要一想到过去我就瞬间抑郁或者躯体反应很大，我当下的生活还没整理好，不能把精力放到过去里面，这坨屎一般的代码我先跑一跑，遇到bug了再说吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2084099829396099565",
+        "created_at": "2026-08-03T02:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084100854362362100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084100854362362100",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084099829396099565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我今天觉得我不能去解决或者暂时不能解决，因为我只要一想到过去我就瞬间抑郁或者躯体反应很大，我当下的生活还没整理好，不能把精力放到过去里面，这坨屎一般的代码我先跑一跑，遇到bug了再说吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2084099829396099565",
+        "created_at": "2026-08-03T02:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084099829396099565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084099829396099565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的人生是一场屎山代码，能跑起来的代码就别去校对复核，一旦仔细盘查纠错可能整个代码都要崩溃报错\n\n这就是为什么我对我的童年基本不感兴趣不想回顾18岁以前的任何事情，除非脑子逼着我回顾，一想到我80%以上的毛病行为依恋模型全部由幼年的破事组成，我就觉得糟心bullshit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 500,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1036
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      }
+    ]
+  }
+}

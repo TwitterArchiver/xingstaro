@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053435734737186816",
+    "conversation_id": "2084613949190975524",
+    "created_at": "2026-08-06T00:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T01:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085162610165772546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867035438051131393",
+          "start": 0,
+          "username": "Iwilldieyoutoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085162610165772546",
+    "in_reply_to_user_id": "1867035438051131393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084974215367684425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iwilldieyoutoo 窝趣！笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084974203195826176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9Q_btXIAA5c4w.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2084613949190975524",
+        "created_at": "2026-08-06T00:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085162610165772546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867035438051131393",
+              "start": 0,
+              "username": "Iwilldieyoutoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085162610165772546",
+        "in_reply_to_user_id": "1867035438051131393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084974215367684425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iwilldieyoutoo 窝趣！笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084974203195826176"
+          ]
+        },
+        "author_id": "1867035438051131393",
+        "conversation_id": "2084613949190975524",
+        "created_at": "2026-08-05T12:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084974215367684425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnK8TVZ0kp",
+              "end": 40,
+              "expanded_url": "https://x.com/Iwilldieyoutoo/status/2084974215367684425/photo/1",
+              "media_key": "3_2084974203195826176",
+              "start": 17,
+              "url": "https://t.co/EnK8TVZ0kp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084974215367684425",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084613949190975524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 仁爱之人！ https://t.co/EnK8TVZ0kp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 516,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1097
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:35:24.000Z",
+        "description": "顺女泛性恋  adhd确诊  物质滥用  口令红包99解锁qq好友位  生日9.28  互fo私我 如果有什么想问的直接私我就好，我致力于帮助oder们提高od效率，保护身体的同时获取快乐🫡",
+        "id": "1867035438051131393",
+        "name": "十字草草",
+        "pinned_tweet_id": "2044752888853914088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010682131769663488/N8kFV-tv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 252,
+          "like_count": 8167,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 995
+        },
+        "url": "",
+        "username": "Iwilldieyoutoo",
+        "verified": false
+      }
+    ]
+  }
+}
